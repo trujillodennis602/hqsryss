@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：性能调优：MySQL查询性能优化实战清单
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://book.txdeia.asia/blog/4156474.sHtMl
+
+原标题：架构笔记：数据库连接池架构参数调优思路
+简介：golang udp 服务端客户端开发示例，golang 实现 UDP 服务收发数据包，实现 udp 协议通信程序。
+ | 原文链接：http://book.txdeia.asia/blog/1839037.sHtMl
+
+原标题：架构笔记：业务操作审计日志系统架构设计
+简介：golang 漏桶算法实现接口限流，漏桶算法控制请求流出速率，平滑突发流量，削平流量峰值。
+ | 原文链接：http://book.txdeia.asia/blog/3747361.sHtMl
+
+原标题：容器资源限制防止宿主机过载
+简介：数据库索引重建提升查询速度，针对碎片化索引，重建数据库索引，恢复 SQL 查询执行性能。
+ | 原文链接：http://book.txdeia.asia/blog/1833038.sHtMl
+
+原标题：golang 系统设计定时任务失败重试告警实现
+简介：golang mongodb 索引优化慢查询处理，mongodb 创建索引，分析慢查询，优化聚合查询执行性能。
+ | 原文链接：http://book.txdeia.asia/blog/4160374.sHtMl
+
+原标题：架构笔记：分布式事务方案对比与业务取舍
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：http://book.txdeia.asia/blog/0454660.sHtMl
+
+原标题：OpenSource：开源项目贡献者协作流程规范
+简介：Nginx 透传真实客户端 IP 配置，配置 Nginx 把真实客户端 IP 传递后端服务，后端拿到访问者真实 IP。
+ | 原文链接：http://book.txdeia.asia/blog/9234448.sHtMl
+
+原标题：golang 系统设计文件存储选型对比
+简介：golang 跨域处理中间件编写，Gin 跨域中间件开发，处理预检 OPTIONS 请求，解决浏览器跨域报错。
+ | 原文链接：http://book.txdeia.asia/blog/1568790.sHtMl
+
+原标题：优化实践：异步改造同步接口提升吞吐能力
+简介：golang go 无锁并发编程技巧，原子操作 sync/atomic，简单场景替换锁，提升并发性能。
+ | 原文链接：http://book.txdeia.asia/blog/3003615.sHtMl
+
+原标题：实战：对象存储断点续传下载实践
+简介：golang http 服务性能优化调参，调优 Go HTTP 服务参数，调整连接池，提升服务并发吞吐能力。
+ | 原文链接：http://book.txdeia.asia/blog/9706453.sHtMl
+
+原标题：golang 系统设计 canary 金丝雀部署实操
+简介：golang docker 镜像构建最佳实践，Go 项目 Docker 镜像构建最佳实践，减小镜像体积，安全构建。
+ | 原文链接：http://book.txdeia.asia/blog/6573681.sHtMl
+
+原标题：golang kafka offset 提交策略
+简介：主干开发团队代码合并策略，讲解主干开发模式，团队代码合并流程，适合高频迭代的团队协作模式。
+ | 原文链接：http://book.txdeia.asia/blog/6796880.sHtMl
+
+原标题：运维笔记：系统内核参数调优生产服务器
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：http://book.txdeia.asia/blog/7696892.sHtMl
+
+原标题：零基础理解JSON、XML数据格式处理
+简介：golang ip 限流黑名单实现方案，基于 IP 做限流与黑名单，拦截恶意 IP 访问，保护接口服务。
+ | 原文链接：http://book.txdeia.asia/blog/6912337.sHtMl
+
+原标题：golang docker compose 完整语法
+简介：golang goroutine 泄露常见场景汇总，channel 阻塞、context 忘记取消，导致协程无法退出发生泄露。
+ | 原文链接：http://book.txdeia.asia/blog/1034535.sHtMl
+
+原标题：golang 系统设计大表结构变更不停机方案
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://book.txdeia.asia/blog/9489104.sHtMl
+
+原标题：方案对比：几种分布式限流算法架构适用性
+简介：golang 子进程超时杀死防止挂住，context 控制子进程超时，超时强制杀掉子进程，避免子进程僵尸。
+ | 原文链接：http://book.txdeia.asia/blog/1063525.sHtMl
+
+原标题：不必要字符转义关闭业务异常
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://book.txdeia.asia/blog/8741336.sHtMl
+
+原标题：复盘总结：系统压测报告模板与分析思路
+简介：golang oss 签名 URL 临时访问，生成 oss 临时签名 url，限时访问私有文件，保障文件访问安全可控。
+ | 原文链接：http://book.txdeia.asia/blog/9830436.sHtMl
+
+原标题：Security：反序列化漏洞风险识别与规避
+简介：golang 自定义 http round tripper，封装 http 客户端拦截，实现请求日志、签名、重试统一处理逻辑。
+ | 原文链接：http://book.txdeia.asia/blog/3713723.sHtMl
+
+原标题：Debug：消息队列死信队列堆积无人处理业务阻塞
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://book.txdeia.asia/blog/4935802.sHtMl
+
+原标题：记一次本地运行正常，线上环境报错诡异问题
+简介：golang go list 双向链表使用，container/list 双向链表，频繁增删节点业务场景使用。
+ | 原文链接：http://book.txdeia.asia/blog/8361471.sHtMl
+
+原标题：安全复盘：环境变量密钥泄露风险与防护
+简介：网关集成鉴权限流日志一体化，在网关层整合鉴权、限流、请求日志，统一对入口请求做管控处理。
+ | 原文链接：http://book.txdeia.asia/blog/5046771.sHtMl
+
+原标题：golang 系统设计限流熔断降级组合使用
+简介：golang 分布式事务 seata go 客户端，seata‑go 实现分布式事务，保证跨库业务数据最终一致性。
+ | 原文链接：http://book.txdeia.asia/blog/9489038.sHtMl
+
+原标题：Hands‑on：模拟RPC超时重试业务异常场景
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://book.txdeia.asia/blog/5935723.sHtMl
+
+原标题：golang 系统设计网关鉴权鉴权转发流程讲解
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://book.txdeia.asia/blog/2602588.sHtMl
+
+原标题：golang 系统设计开源 pr 评审合并流程实操
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://book.txdeia.asia/blog/8371035.sHtMl
+
+原标题：golang docker compose 依赖启动顺序
+简介：golang lru 缓存淘汰算法编写，手写 LRU 缓存淘汰算法，实现本地缓存，淘汰最久未使用数据。
+ | 原文链接：http://book.txdeia.asia/blog/9460317.sHtMl
+
+原标题：golang 限流熔断降级完整示例
+简介：golang 设置 net.Conn 读写超时，每次读写设置超时，防止连接永久阻塞挂起不返回。
+ | 原文链接：http://book.txdeia.asia/blog/7467034.sHtMl
+
+原标题：golang 系统设计容器健康检查设计思路
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：http://book.txdeia.asia/blog/2779045.sHtMl
+
+原标题：零基础理解JSON、XML数据格式处理
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：http://book.txdeia.asia/blog/7265902.sHtMl
+
+原标题：快速入门容器基础概念，理解镜像与容器
+简介：端口占用访问失败排查方案，讲解端口占用排查命令，定位占用进程，释放端口，解决服务启动端口被占用报错。
+ | 原文链接：http://book.txdeia.asia/blog/0501440.sHtMl
+
+原标题：项目实践：实现统一接口返回封装与全局异常处理
+简介：golang 日志级别动态调整热更新，不用重启程序动态修改日志输出级别，线上调试排查问题十分方便。
+ | 原文链接：http://book.txdeia.asia/blog/8379250.sHtMl
+
+原标题：golang ip 限流黑名单实现方案
+简介：轻量 API 后端接口服务快速开发，快速搭建简易 API 服务，实现基础接口能力，快速支撑小型业务需求。
+ | 原文链接：http://book.txdeia.asia/blog/8378045.sHtMl
+
+原标题：安全复盘：定时任务权限过大风险管控
+简介：TCP 心跳检测清理僵死连接，开启 TCP 心跳机制，自动清理僵死无效连接，释放连接资源。
+ | 原文链接：http://book.txdeia.asia/blog/6155572.sHtMl
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：golang jwt jwk 公钥验证令牌，使用 jwk 公钥校验 jwt，非对称方式签发校验令牌，提升安全性。
+ | 原文链接：http://book.txdeia.asia/blog/4825883.sHtMl
+
+原标题：Hands‑on：本地模拟消息重复消费处理实践
+简介：golang crypto 密码学最佳实践，go crypto 包加密签名，规避不安全算法，使用安全密码套件。
+ | 原文链接：http://book.txdeia.asia/blog/3935470.sHtMl
+
+原标题：golang 系统设计接口频率限制业务落地
+简介：golang go 模块迁移从 GOPATH 到 GoMod，老项目从 GOPATH 迁移 go mod，解决依赖管理混乱问题。
+ | 原文链接：http://book.txdeia.asia/blog/1725670.sHtMl
+
+原标题：golang 系统设计防重复提交实现
+简介：文件编码统一随机乱码修复，统一项目全部文件读写编码，消除随机中文乱码，保证文本处理稳定。
+ | 原文链接：http://book.txdeia.asia/blog/7480814.sHtMl
+
+原标题：HelloCI：理解持续集成基础工作流程
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：http://book.txdeia.asia/blog/5957812.sHtMl
+
+
+二、踩坑排错｜Troubleshooting
+原标题：本地数据库开发环境搭建指南
+简介：golang go xml 解析生成 xml 文档，encoding/xml 解析 xml，结构体标签映射 xml 节点属性。
+ | 原文链接：http://book.txdeia.asia/blog/2613601.sHtMl
+
+原标题：golang 系统设计契约测试接口兼容性保障思路
+简介：golang 限流熔断放在代理层实践，代理层统一限流熔断，对后端服务做流量保护。
+ | 原文链接：http://book.txdeia.asia/blog/4396974.sHtMl
+
+原标题：Debug：时间回拨，定时任务调度逻辑错乱
+简介：golang http body 必须关闭的重要性，无论成功失败必须关闭 request.Body，否则连接无法复用泄漏。
+ | 原文链接：http://book.txdeia.asia/blog/1130236.sHtMl
+
+原标题：实战项目：前端资源打包体积优化完整实操
+简介：线程调度优化减少上下文切换，优化线程数量，减少线程频繁切换，降低 CPU 上下文切换开销。
+ | 原文链接：http://book.txdeia.asia/blog/1034235.sHtMl
+
+原标题：设计思考：API网关和BFF职责边界划分
+简介：golang gin 参数绑定 query form json，掌握 Gin 多种参数绑定方式，适配不同请求格式参数读取。
+ | 原文链接：http://book.txdeia.asia/blog/1033914.sHtMl
+
+原标题：rebase 操作防止代码丢失
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://book.txdeia.asia/blog/1251791.sHtMl
+
+原标题：安全复盘：业务接口越权测试与修复实践
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：http://book.txdeia.asia/blog/6013880.sHtMl
+
+原标题：Hands‑on：简易网关路由转发组件开发
+简介：golang 配置文件多环境加载，Go 多环境配置加载实现，读取配置文件环境变量，适配多套运行环境。
+ | 原文链接：http://book.txdeia.asia/blog/8235891.sHtMl
+
+原标题：批量数据处理脚本编写技巧
+简介：容器内存扩容 OOM 被杀死修复，调高容器内存限制，优化程序内存占用，避免程序被 OOM 终止。
+ | 原文链接：http://book.txdeia.asia/blog/4237945.sHtMl
+
+原标题：golang 系统设计 jmeter 简单压测脚本编写
+简介：golang sync.Pool 对象池复用对象，sync.Pool 复用临时对象，减少内存分配，降低 GC 频率提升性能。
+ | 原文链接：http://book.txdeia.asia/blog/1501448.sHtMl
+
+原标题：Practice：数据库分表简单实现方案与代码示例
+简介：Docker 容器时区错误修复方案，修复 Docker 容器内部时区偏差，解决容器内时间不对引发业务逻辑异常。
+ | 原文链接：http://book.txdeia.asia/blog/1502370.sHtMl
+
+原标题：golang 系统设计分库分表中间件思路
+简介：Dockerfile 编写容器打包实战，讲解 Dockerfile 指令含义，编写镜像构建脚本，将本地项目打包成可分发容器镜像。
+ | 原文链接：http://book.txdeia.asia/blog/8502461.sHtMl
+
+原标题：架构复盘：分表扩容架构平滑迁移思路
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：http://book.txdeia.asia/blog/2602546.sHtMl
+
+原标题：golang 系统设计压测工具 vegeta 使用示例
+简介：golang go 项目依赖冲突解决完整思路，定位冲突包，replace、exclude、升级降级解决版本冲突。
+ | 原文链接：http://book.txdeia.asia/blog/1691142.sHtMl
+
+原标题：golang 系统设计监控体系指标分类方法论梳理
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://book.txdeia.asia/blog/1691259.sHtMl
+
+原标题：缓存过期策略优化防业务故障
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：http://book.txdeia.asia/blog/7147122.sHtMl
+
+原标题：内存泄漏定位分析完整流程
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：http://book.txdeia.asia/blog/8279803.sHtMl
+
+原标题：踩坑：大报文传输，RPC消息超过大小限制
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：http://book.txdeia.asia/blog/9379148.sHtMl
+
+原标题：网络读取超时设置连接挂起防护
+简介：服务启动依赖顺序配置正确，配置服务启动依赖关系，保证依赖服务就绪之后再启动当前业务服务。
+ | 原文链接：http://book.txdeia.asia/blog/9391470.sHtMl
+
+原标题：Debug：网关超时时间小于后端接口超时设置
+简介：数据库事务 ACID 原理讲解，拆解事务四大特性，理解事务隔离、原子性，明白事务如何保障数据安全。
+ | 原文链接：http://book.txdeia.asia/blog/2667025.sHtMl
+
+原标题：优化实践：Redis管道、批量命令减少网络往返
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：http://book.txdeia.asia/blog/8568146.sHtMl
+
+原标题：golang 系统设计内网外网服务隔离方案
+简介：golang 容器内读取 k8s 配置 configmap，程序读取 k8s configmap 配置，配置与镜像分离便于运维。
+ | 原文链接：http://book.txdeia.asia/blog/6178258.sHtMl
+
+原标题：vue3 组合式 API 业务开发实战
+简介：缓存穿透击穿雪崩全套防护，完整梳理缓存三大问题，落地全套防护策略，保障缓存层稳定运行。
+ | 原文链接：http://book.txdeia.asia/blog/4126971.sHtMl
+
+原标题：golang kafka 监控指标简单梳理
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://book.txdeia.asia/blog/8282470.sHtMl
+
+原标题：golang 系统设计 tcp 三次握手四次挥手梳理
+简介：axios 二次封装请求拦截处理，对 axios 做二次封装，统一请求拦截响应拦截，处理错误、token 自动刷新。
+ | 原文链接：http://book.txdeia.asia/blog/3825692.sHtMl
+
+原标题：golang docker compose 部署 minio
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://book.txdeia.asia/blog/5138911.sHtMl
+
+原标题：新手指南：项目本地编译输出产物解析
+简介：图片上传预览格式大小处理，实现图片上传接口，校验文件格式、大小，完成上传后预览处理。
+ | 原文链接：http://book.txdeia.asia/blog/5045903.sHtMl
+
+原标题：入门实践：简单批量处理脚本编写
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://book.txdeia.asia/blog/2611368.sHtMl
+
+原标题：golang 布隆过滤器实现去重
+简介：golang gorm select 指定查询字段，指定查询字段，避免查询全部字段，减少数据传输，提升查询性能。
+ | 原文链接：http://book.txdeia.asia/blog/5238936.sHtMl
+
+原标题：效率笔记：Git高级命令日常开发高频使用汇总
+简介：golang 分布式锁防死锁实现要点，锁超时、续期、锁持有者校验，避免锁死锁，保障分布式锁可靠性。
+ | 原文链接：http://book.txdeia.asia/blog/4909021.sHtMl
+
+原标题：golang 表单文件大小限制配置
+简介：golang 容器健康检查接口开发，Go 开发 HTTP 健康接口，供容器编排工具探测实例存活状态。
+ | 原文链接：http://book.txdeia.asia/blog/7120133.sHtMl
+
+原标题：设计思考：分布式会话架构选型对比
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://book.txdeia.asia/blog/4891911.sHtMl
+
+原标题：踩坑记录：端口被占用导致服务启动失败
+简介：golang 正则表达式 Go 实操案例，正则匹配提取替换，处理手机号邮箱校验，规避正则回溯 CPU 暴涨。
+ | 原文链接：http://book.txdeia.asia/blog/6047914.sHtMl
+
+原标题：golang etcd 配置中心简单使用
+简介：SourceMap 生成线上报错定位，项目打包生成 SourceMap 文件，线上报错可以还原源码，快速定位报错位置。
+ | 原文链接：http://book.txdeia.asia/blog/6057999.sHtMl
+
+原标题：golang 系统设计时间字段选型 datetime timestamp
+简介：golang redis scan 遍历 key 避免阻塞，使用 scan 迭代遍历 redis 键，不用 keys 命令，防止阻塞 redis 服务。
+ | 原文链接：http://book.txdeia.asia/blog/1896811.sHtMl
+
+原标题：golang 系统设计内部服务熔断降级配置思路
+简介：golang bufio 缓冲读写性能优化，bufio 带缓冲读写，减少系统调用，提升文件网络 IO 性能。
+ | 原文链接：http://book.txdeia.asia/blog/4936703.sHtMl
+
+原标题：golang 系统设计 webhook 回调接口设计要点
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://book.txdeia.asia/blog/4835814.sHtMl
+
+原标题：golang 分页查询封装通用工具
+简介：echarts 大数据渲染性能调优，大数据量 ECharts 图表调优，数据采样、分片渲染，解决图表卡顿。
+ | 原文链接：http://book.txdeia.asia/blog/6935891.sHtMl
+
+原标题：golang gorm ORM 数据库操作
+简介：golang 响应 body 流式返回大数据，http 流式输出数据，边生成边返回，无需在内存组装完整返回结果。
+ | 原文链接：http://book.txdeia.asia/blog/1880365.sHtMl
+
+原标题：快速入门gRPC基础概念与简单示例
+简介：golang strings.Builder 字符串高效拼接，strings.Builder 做字符串拼接，比 += 性能更高，减少内存拷贝。
+ | 原文链接：http://book.txdeia.asia/blog/5225792.sHtMl
+
+三、实战开发｜Practice
+原标题：golang 系统设计内部服务契约测试简单思路
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://book.txdeia.asia/blog/4824703.sHtMl
+
+原标题：Practice：实现定时任务动态启停管理接口
+简介：日志切割配置防止日志丢失，配置日志切割轮转策略，日志按大小时间切割，防止日志文件丢失。
+ | 原文链接：http://book.txdeia.asia/blog/4457925.sHtMl
+
+原标题：实践：实现Redis分布式锁完整可运行代码
+简介：调试工具断点调试变量查看技巧，演示断点设置、变量监视、调用栈查看，借助调试工具高效排查业务逻辑错误。
+ | 原文链接：http://book.txdeia.asia/blog/7269140.sHtMl
+
+原标题：Hands‑on：简易速率限制中间件完整实现
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：http://book.txdeia.asia/blog/2779257.sHtMl
+
+原标题：golang 系统设计内部服务熔断降级配置思路
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：http://book.txdeia.asia/blog/1557936.sHtMl
+
+原标题：golang gin 静态资源访问配置
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：http://book.txdeia.asia/blog/0480247.sHtMl
+
+原标题：Security：RPC调用身份认证安全加固
+简介：golang hertz 性能优化参数调优，hertz 连接池、缓冲区参数调优，最大化接口吞吐性能。
+ | 原文链接：http://book.txdeia.asia/blog/0480371.sHtMl
+
+原标题：golang 大文件 http 下载服务
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：http://book.txdeia.asia/blog/7157091.sHtMl
+
+原标题：golang redis 五种数据结构实战
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://book.txdeia.asia/blog/7258033.sHtMl
+
+原标题：golang docker 部署 prometheus 整套
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://book.txdeia.asia/blog/2714602.sHtMl
+
+原标题：日志切割配置防止日志丢失
+简介：golang ssh 客户端远程命令执行，golang ssh 连接远程服务器，执行 shell 命令，获取命令输出结果。
+ | 原文链接：http://book.txdeia.asia/blog/5936925.sHtMl
+
+原标题：复盘总结：缓存改造业务落地踩坑复盘
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://book.txdeia.asia/blog/7264703.sHtMl
+
+原标题：golang 系统设计代码评审 checklist 清单
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://book.txdeia.asia/blog/7156925.sHtMl
+
+原标题：eslint prettier 代码规范落地
+简介：golang 分表跨表 join 查询处理方案，分表后跨分片关联查询解决方案，业务层聚合代替数据库 join。
+ | 原文链接：http://book.txdeia.asia/blog/8580358.sHtMl
+
+原标题：性能复盘：网络IO优化减少接口等待时间
+简介：golang bufio 缓冲读写性能优化，bufio 带缓冲读写，减少系统调用，提升文件网络 IO 性能。
+ | 原文链接：http://book.txdeia.asia/blog/1163453.sHtMl
+
+原标题：golang net/http 超时全套配置
+简介：golang json 解析未知动态 json 结构，解析到 map [string] any 处理未知 json，动态读取字段。
+ | 原文链接：http://book.txdeia.asia/blog/1033146.sHtMl
+
+原标题：golang mysql 悲观锁乐观锁实现
+简介：golang docker compose 开发环境 go 服务，docker compose 编排 go 服务与中间件，本地一键拉起整套开发环境。
+ | 原文链接：http://book.txdeia.asia/blog/9817957.sHtMl
+
+原标题：踩坑记录：时间戳精度不一致引发判断错误
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：http://book.txdeia.asia/blog/4890021.sHtMl
+
+原标题：全局时间标准统一逻辑错乱修复
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：http://book.txdeia.asia/blog/0475779.sHtMl
+
+原标题：golang 系统设计唯一索引业务使用场景
+简介：golang go mod why 查询依赖引入原因，go mod why 查询为什么引入某个包，理清依赖来源。
+ | 原文链接：http://book.txdeia.asia/blog/6023324.sHtMl
+
+原标题：设计思考：缓存分层架构设计与失效处理策略
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：http://book.txdeia.asia/blog/7157036.sHtMl
+
+原标题：零基础理解进程、线程基础概念区别
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://book.txdeia.asia/blog/8570369.sHtMl
+
+原标题：golang 批量任务协程控制防雪崩
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：http://book.txdeia.asia/blog/3824772.sHtMl
+
+原标题：Hands‑on：简易压缩中间件gzip实现实践
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://book.txdeia.asia/blog/2602581.sHtMl
+
+原标题：golang http 服务性能优化调参
+简介：gitignore 文件编写过滤规则，讲解 gitignore 语法，编写过滤配置，忽略缓存、编译产物、密钥文件，保持仓库整洁。
+ | 原文链接：http://book.txdeia.asia/blog/4136925.sHtMl
+
+原标题：golang 系统设计 go benchmark 性能测试实操
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：http://book.txdeia.asia/blog/6046081.sHtMl
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：golang redis bitmap 位图业务实战，bitmap 做签到统计、用户状态标记，节省大量内存空间。
+ | 原文链接：http://book.txdeia.asia/blog/4356036.sHtMl
+
+原标题：golang k8s job 一次性任务执行
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：http://book.txdeia.asia/blog/8280258.sHtMl
+
+原标题：前端水印防信息泄露实现
+简介：golang atomic.Value 存储任意类型数据，atomic.Value 安全存储读取任意类型，配置热更新常用。
+ | 原文链接：http://book.txdeia.asia/blog/4057034.sHtMl
+
+原标题：排错：静态资源404，打包路径配置错误
+简介：golang gif 图片帧处理操作，解析 gif 图片帧，压缩、拆分 gif 动图，处理动图业务。
+ | 原文链接：http://book.txdeia.asia/blog/1692558.sHtMl
+
+原标题：golang 简单爬虫请求防封禁
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：http://book.txdeia.asia/blog/1502481.sHtMl
+
+原标题：开源项目本地运行排错完整清单
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：http://book.txdeia.asia/blog/4589660.sHtMl
+
+原标题：全量回归测试提升代码质量
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：http://book.txdeia.asia/blog/9340033.sHtMl
+
+原标题：踩坑记录：乐观锁版本号处理不当更新失败
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：http://book.txdeia.asia/blog/6098982.sHtMl
+
+原标题：排错：DockerCompose依赖顺序启动顺序坑
+简介：golang 微服务网关简易实现，http 反向代理、路由匹配、鉴权限流，理解网关核心原理。
+ | 原文链接：http://book.txdeia.asia/blog/9640392.sHtMl
+
+原标题：Hands‑on：简易邮件发送服务封装实践
+简介：golang e2e 端到端测试 go 接口，编写 e2e 测试，完整模拟用户请求，校验整套业务链路正确性。
+ | 原文链接：http://book.txdeia.asia/blog/1851484.sHtMl
+
+原标题：性能复盘：数据库回滚日志过大性能影响优化
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://book.txdeia.asia/blog/8502936.sHtMl
+
+原标题：运维笔记：CI流水线缓存策略加速构建速度
+简介：开发代理服务网络限制解决，搭建本地代理服务，解决开发环境网络访问受限，实现外部接口正常调用。
+ | 原文链接：http://book.txdeia.asia/blog/6370289.sHtMl
+
+原标题：记一次分库分表路由计算错误数据写入错误分片
+简介：golang 模糊测试 go fuzz 基础编写，Fuzz 测试函数，自动生成随机输入，发现代码崩溃 panic。
+ | 原文链接：http://book.txdeia.asia/blog/9605069.sHtMl
+
+原标题：golang 协程 panic 捕获防止崩溃
+简介：系统时间同步定时任务偏移，同步服务器系统时间，防止时间偏移，避免定时任务执行时间错乱。
+ | 原文链接：http://book.txdeia.asia/blog/9505695.sHtMl
+
+四、架构设计｜Architecture
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：golang base64 大文件流式编解码，大文件流式 base64 转换，不用一次性加载全部文件进入内存。
+ | 原文链接：http://book.txdeia.asia/blog/8202625.sHtMl
+
+原标题：浏览器缓存强制刷新方案
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：http://book.txdeia.asia/blog/1757471.sHtMl
+
+原标题：golang 系统设计内部服务熔断降级配置思路
+简介：大事务拆分回滚日志暴涨解决，拆分大型数据库事务，减少回滚日志生成量，避免磁盘被回滚日志占满。
+ | 原文链接：http://book.txdeia.asia/blog/0727072.sHtMl
+
+原标题：快速入门异步编程基础模型
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://book.txdeia.asia/blog/3058258.sHtMl
+
+原标题：golang 系统设计告警渠道钉钉邮件企业微信集成
+简介：golang 日志脱敏敏感字段过滤，日志打印自动脱敏敏感字段，避免日志输出手机号身份证泄露隐私。
+ | 原文链接：http://book.txdeia.asia/blog/9202939.sHtMl
+
+原标题：monorepo 项目多包管理最佳实践
+简介：vite 插件开发自定义构建逻辑，开发自定义 vite 插件，介入构建生命周期，实现项目个性化构建逻辑。
+ | 原文链接：http://book.txdeia.asia/blog/2957247.sHtMl
+
+原标题：运维笔记：磁盘inode耗尽故障排查处理
+简介：golang 日志输出 stdout 标准输出规范，容器环境日志输出到 stdout，由容器平台统一采集日志文件。
+ | 原文链接：http://book.txdeia.asia/blog/5262269.sHtMl
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：http://book.txdeia.asia/blog/8616817.sHtMl
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://book.txdeia.asia/blog/2949473.sHtMl
+
+原标题：golang 单元测试 table‑driven
+简介：golang http.Server 配置参数详解，ReadTimeout WriteTimeout IdleTimeout，全方位防护慢请求攻击。
+ | 原文链接：http://book.txdeia.asia/blog/1616068.sHtMl
+
+原标题：AI‑Dev：利用AI快速阅读陌生开源项目源码
+简介：golang html 模板防 xss 自动转义，理解 go html/template 自动转义，防止 XSS 攻击，处理不需要转义场景。
+ | 原文链接：http://book.txdeia.asia/blog/9647061.sHtMl
+
+原标题：安全笔记：文件下载接口路径校验安全
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://book.txdeia.asia/blog/1535258.sHtMl
+
+原标题：记一次字符集编码不一致乱码问题全排查
+简介：golang jwt 令牌刷新逻辑实现，实现 JWT 双令牌机制，access 短期有效 refresh 刷新令牌，实现无感续期登录。
+ | 原文链接：http://book.txdeia.asia/blog/8593606.sHtMl
+
+原标题：golang 系统设计大文件上传架构
+简介：golang 系统调用跟踪 strace 排查 go 程序，strace 跟踪系统调用，定位文件网络 IO 慢的底层原因。
+ | 原文链接：http://book.txdeia.asia/blog/2049280.sHtMl
+
+原标题：golang 系统设计日志脱敏敏感字段过滤处理
+简介：golang 制品镜像版本号规范管理，镜像版本号结合 git commit，明确每个镜像对应代码版本便于追溯。
+ | 原文链接：http://book.txdeia.asia/blog/5261414.sHtMl
+
+原标题：消息队列消费堆积扩容处理
+简介：golang ioutil 已废弃替换方案，ioutil 废弃之后替换为 os io 包函数，更新旧项目代码。
+ | 原文链接：http://book.txdeia.asia/blog/5272573.sHtMl
+
+原标题：golang 系统设计技术文档维护更新最佳实践
+简介：golang go 终端 pty 伪终端操作，pty 启动子进程，模拟终端交互，实现交互式命令调用。
+ | 原文链接：http://book.txdeia.asia/blog/3050392.sHtMl
+
+原标题：golang 系统设计状态字段枚举约束设计思路
+简介：服务健康检查告警监控体系，搭建健康检查加告警体系，服务异常及时推送告警通知运维人员。
+ | 原文链接：http://book.txdeia.asia/blog/4181414.sHtMl
+
+?
