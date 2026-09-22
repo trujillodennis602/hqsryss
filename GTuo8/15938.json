@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang redis 缓存预热实现思路
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/27147214.html
+
+原标题：golang gitlab ci 配置自动构建镜像
+简介：golang go 泛型约束与类型集合，泛型 type set 约束，限制泛型支持类型，写出安全泛型代码。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/26135922.html
+
+原标题：Git 分支管理多人协作实战教程
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/31133925.html
+
+原标题：部署复盘：蓝绿发布实现零停机业务更新
+简介：golang http 服务并发连接数限制，自定义 listener 统计连接数量，限制最大并发连接数保护服务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/04801580.html
+
+原标题：golang 系统设计并发控制协程池任务池实现
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/60436914.html
+
+原标题：GET POST 接口请求参数处理
+简介：golang golangci‑lint 静态代码检查配置，golangci‑lint 静态检查，代码规范检测，提前发现代码隐患。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/04703368.html
+
+原标题：性能复盘：锁等待严重业务逻辑优化记录
+简介：空指针异常判空容错处理，讲解空指针产生场景，规范判空逻辑，增加容错，避免空指针直接造成程序崩溃。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/43469369.html
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：golang smtp 邮件发送完整示例，调用 smtp 服务发送文本与 html 格式邮件，实现邮件通知能力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/71580380.html
+
+原标题：golang mysql 时间类型选型避坑
+简介：Redis 内存淘汰策略数据防丢失，合理配置 Redis 内存淘汰策略，防止内存满后误删除业务重要数据。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/07791368.html
+
+原标题：Issue：浏览器缓存ServiceWorker导致旧页面常驻
+简介：消息队列重复消费业务处理，实现消息消费幂等，处理重复投递消息，保证多次消费业务结果一致。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/71579257.html
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/59350146.html
+
+原标题：安全笔记：JWT安全风险，签名泄露过期控制
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/72535577.html
+
+原标题：golang 系统设计日志脱敏敏感字段过滤处理
+简介：nodejs 集成测试业务流程编写，编写 Node 集成测试，调用真实接口，验证完整业务链路执行结果。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/49011346.html
+
+原标题：开源实践：参与开源项目从Issue到PR完整流程
+简介：golang lru 缓存淘汰算法编写，手写 LRU 缓存淘汰算法，实现本地缓存，淘汰最久未使用数据。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/71221911.html
+
+原标题：网关集成鉴权限流日志一体化
+简介：系统时间同步定时任务偏移，同步服务器系统时间，防止时间偏移，避免定时任务执行时间错乱。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/54767467.html
+
+原标题：入门实践：简单重试逻辑封装实现
+简介：正则表达式文本处理实战案例，结合业务场景演示正则匹配、提取、替换，处理手机号、邮箱等各类文本校验需求。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/80424455.html
+
+原标题：实战项目：GitSubmodule管理多仓库实践
+简介：nodejs 接口限流防刷代码实现，Node 层实现接口限流，限制 IP 访问频次，防护接口被恶意高频调用。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/54784635.html
+
+原标题：方案设计：分布式分页查询架构难点处理
+简介：线程池拒绝策略任务丢失防护，合理设置线程池拒绝策略，处理任务队列满场景，避免业务任务直接丢失。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/61368036.html
+
+原标题：CI/CD 流水线自动构建部署落地
+简介：轻量 API 后端接口服务快速开发，快速搭建简易 API 服务，实现基础接口能力，快速支撑小型业务需求。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/83803681.html
+
+原标题：nodejs 进程间通信 IPC 实操
+简介：golang defer 闭包变量捕获坑，defer 捕获循环变量引用，变量被复写，理解闭包变量捕获规则。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41583615.html
+
+原标题：golang minio 分片上传断点续传
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52616958.html
+
+原标题：golang 系统设计依赖版本升级风险评估
+简介：批量数据处理脚本编写技巧，编写脚本批量处理大量业务数据，循环处理、分批执行，提升数据处理效率。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/86038139.html
+
+原标题：坑点：缓存穿透，大量无效请求打穿数据库
+简介：golang 表格驱动测试完整示例，表格驱动多组输入输出，批量执行测试用例，减少重复代码。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96179469.html
+
+原标题：主干开发团队代码合并策略
+简介：golang 雪花算法 workId 自动获取，自动获取机器 workId，不用手动配置，简化分布式 id 部署。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18252635.html
+
+原标题：golang 系统设计异步化改造业务流程思路
+简介：golang go 种子初始化 rand 随机，rand 初始化种子，不初始化会固定序列，理解随机数种子行为。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/39350374.html
+
+原标题：golang 系统设计告警升级通知策略配置思路
+简介：golang go 包循环导入报错解决，A 导入 B B 导入 A，循环导入报错，重构代码拆分包消除循环依赖。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30460584.html
+
+原标题：内存溢出问题现象识别排查
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52705837.html
+
+原标题：排错：静态资源CDN缓存未刷新旧资源持续返回
+简介：golang proto 默认值坑点梳理，梳理 Protobuf 默认值坑，零值字段区分未赋值，避免业务逻辑错误。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/31583415.html
+
+原标题：golang 系统设计数据库索引设计方法论
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/29535140.html
+
+原标题：实战项目：容器资源限制配置压力测试实践
+简介：golang http 中间件洋葱模型原理，理解 go http 中间件洋葱模型，请求响应流转顺序，编写自定义中间件。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96159181.html
+
+原标题：实践：静态站点自动化部署到GitHubPages
+简介：golang md5 sha 加密工具实现，实现 MD5、SHA 哈希工具，做数据摘要，用于签名校验场景。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/71138171.html
+
+原标题：golang docker 部署 prometheus 整套
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/53790392.html
+
+原标题：golang 系统设计网关错误重试超时处理策略
+简介：ICMP 放通网络丢包问题修复，放开 ICMP 协议，解决 MTU 问题导致网络丢包，修复网络不稳定现象。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/71849179.html
+
+原标题：效率笔记：gitlog高效查询历史提交技巧
+简介：golang mime 类型检测文件，mime 识别文件 mime 类型，设置 http 响应 Content‑Type。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/51516040.html
+
+原标题：架构复盘：RPC框架架构超时重试设计要点
+简介：golang 接口返回统一封装工具，封装 Go 接口统一返回工具，标准化成功失败返回结构体。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/51816958.html
+
+原标题：golang 系统设计开源 pr 评审合并流程实操
+简介：重复提交幂等防护再次讲解，梳理前端重复点击、网络重试场景，落地接口幂等，杜绝重复业务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41693583.html
+
+原标题：架构复盘：RPC框架架构超时重试设计要点
+简介：golang cobra 命令行参数配置绑定，cobra 绑定配置文件环境变量命令行参数，多源配置合并。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/03351403.html
+
+原标题：内网 DNS 不稳定随机报错排查
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/64945251.html
+
+原标题：优化实践：接口批量合并减少网络请求次数
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/85178473.html
+
+原标题：Cookie Session 会话状态管理
+简介：nodejs 集群模式多核利用实现，使用 cluster 集群模式，充分利用服务器多核 CPU，提升服务处理能力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/92038170.html
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计网络超时故障排查思路
+简介：golang sqlx 原生 SQL 代码简化，sqlx 简化原生 SQL 结果映射结构体，兼顾性能与开发效率。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52616906.html
+
+原标题：golang 系统设计 go benchmark 性能测试实操
+简介：线上接口超时故障排查思路，从网络、数据库、代码逻辑逐层排查接口超时，定位慢请求根因。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/85916958.html
+
+原标题：部署实践：容器优雅停机配置处理信号
+简介：golang hertz 反向代理与负载均衡，hertz 实现反向代理，内置负载均衡，快速搭建网关类服务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63726262.html
+
+原标题：文件锁正确使用避免死锁
+简介：golang ip2regionIP 地址解析实战，集成 ip2region 库，根据 IP 解析归属地城市，实现 IP 地域解析。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/40502806.html
+
+原标题：OpenSource：开源项目版本发布CHANGELOG编写
+简介：TLS 版本兼容 HTTPS 握手失败，兼容老旧 TLS 协议版本，修复部分客户端 HTTPS 握手失败无法访问。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52917040.html
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：golang json omitempty 零值坑，omitempty 会忽略零值，区分业务是否需要输出零值字段。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/85279484.html
+
+原标题：golang 系统设计 protobuf 默认值坑点梳理
+简介：golang go 泛型使用避坑注意点，泛型与 interface 区别，泛型性能，什么时候适合使用泛型。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52736270.html
+
+原标题：开发代理服务网络限制解决
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/42683694.html
+
+原标题：安全笔记：依赖包漏洞检测供应链安全
+简介：golang sort 切片排序自定义 less，sort.Slice 切片快速排序，自定义 less 函数实现业务排序。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/85947078.html
+
+原标题：golang 系统设计链路数据存储选型对比讲解
+简介：golang proto 可选字段处理方案，protobuf 可选字段正确判断，区分未赋值与零值，业务逻辑不出现偏差。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41735947.html
+
+原标题：golang prometheus 指标暴露实现
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18241585.html
+
+原标题：WebSocket 双向通信 demo 开发
+简介：golang go 线上故障排查完整流程，CPU 高、内存上涨、接口超时、goroutine 泄露一套排查处理流程。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30469617.html
+
+原标题：缓存穿透防护保护数据库
+简介：golang bufio.Scanner 缓冲区调大，Scanner 默认缓冲区大小不够，读取超长行需要扩大缓冲区。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30836259.html
+
+原标题：开发记录：跨域中间件完整配置与边界处理
+简介：golang go 应用内存使用优化手段，减少对象分配，复用对象，降低 GC 压力，减少 GC 停顿时间。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41917034.html
+
+原标题：golang base64 编码解码实操
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/86169303.html
+
+原标题：实战项目：容器健康探针配置完整实践示例
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41917259.html
+
+原标题：golang 系统设计接口返回格式统一规范
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/97125161.html
+
+原标题：安全笔记：GitHubAction密钥安全管理
+简介：golang excel 简单读写操作示例，Go 实现 Excel 简单读写，业务数据导出 Excel 报表。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/07129275.html
+
+原标题：golang 表单文件大小限制配置
+简介：golang 读写分离 gorm 实现主从切换，gorm 配置主库写入从库查询，读写分离分担数据库查询压力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/52625163.html
+
+原标题：golang redis 计数器防超卖示例
+简介：golang rate 令牌桶限流器源码理解，拆解令牌桶限流核心逻辑，理解令牌生成消耗，掌握限流底层原理。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/07139273.html
+
+原标题：Troubleshooting：防火墙安全组拦截访问请求
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18381717.html
+
+原标题：动态定时任务业务调度实现
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/17270393.html
+
+原标题：golang 系统设计指标埋点代码低侵入实现
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/14836959.html
+
+原标题：零基础理解数据库事务基础ACID概念
+简介：golang sort 稳定排序 Stable，稳定排序保留相等元素原有顺序，业务需要稳定排序场景。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30404738.html
+
+原标题：零基础理解会话、Cookie、Session基础
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/37572515.html
+
+原标题：golang 消息死信处理业务逻辑
+简介：golang 反向代理 http 服务开发，手写简易 http 反向代理，转发请求，修改请求头响应头。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/29382625.html
+
+原标题：从零学习简单分页逻辑实现思路
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/82680361.html
+
+原标题：架构笔记：业务操作审计日志系统架构设计
+简介：golang go 爬虫请求速率控制，爬虫限频、代理轮换，设置 UA，防止爬虫被目标站点封禁 IP。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/83592581.html
+
+原标题：零基础理解HTTP常用请求头与状态码
+简介：HTTPS 证书过期更新操作，检测 HTTPS 证书到期，更新证书文件，恢复 HTTPS 服务正常访问。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/15914668.html
+
+原标题：golang git 提交信息规范校验
+简介：golang base64 编码解码实操，Go Base64 编码解码示例，处理业务场景 Base64 格式数据转换。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/26027703.html
+
+原标题：﻿【GettingStarted】从零搭建本地开发环境完整指南
+简介：时间精度统一业务判断修复，统一业务使用时间戳精度，毫秒秒区分清楚，修复时间判断逻辑错误。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/93508149.html
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：golang channel 通道并发处理，讲解 Channel 用法，协程之间通过通道传递数据，做并发同步控制。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/82902590.html
+
+原标题：开发记录：长连接连接管理自动清理僵死连接
+简介：配置与镜像分离防止信息泄露，业务配置不打包进镜像，外部挂载配置，避免密钥配置随镜像泄露。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/60479478.html
+
+原标题：express 中间件开发业务实践
+简介：golang 系统 IO 阻塞 goroutine 场景，理解系统调用阻塞 M，P 会调度其他 M，掌握 go 调度行为。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/04891472.html
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：golang grpc 负载均衡客户端实现，grpc 客户端负载均衡，轮询随机权重，分发请求到多个服务实例。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/36461405.html
+
+原标题：golang mongodb 分页性能优化技巧
+简介：golang gzip 压缩 http 响应，服务端开启 gzip 压缩，减小接口响应体积，降低网络传输耗时。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/29484692.html
+
+原标题：DevOps：WSL2生产环境使用风险提示
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/42270609.html
+
+原标题：架构笔记：分布式系统常见一致性模型梳理
+简介：异步编程 Promise 执行流程解析，拆解异步执行顺序，理解回调与 Promise 差异，理清异步场景下代码执行逻辑。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63895868.html
+
+原标题：记一次GC频繁，服务CPU持续高负载排查
+简介：golang http client 全局变量复用，http Client 不要每次请求新建，复用 Transport 提升性能。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/07152595.html
+
+原标题：日志输出规范防止磁盘爆满
+简介：golang go‑zero 配置中心热更新，go‑zero 对接 etcd 配置中心，配置热更新无需重启服务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/70804030.html
+
+三、实战开发｜Practice
+原标题：DevOps：容器健康探针livenessreadiness配置
+简介：Git commit 钩子提交规范校验，配置 Git 提交钩子，提交代码自动校验提交信息格式，规范提交记录。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96470536.html
+
+原标题：golang 系统设计 issue 模板 bug 反馈模板
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/74847369.html
+
+原标题：服务启动依赖顺序配置正确
+简介：golang 定时任务任务持久化存储，定时任务持久化到数据库，服务重启任务不丢失，动态管理任务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/59717069.html
+
+原标题：DevOps：Docker镜像优化，减小镜像体积实践
+简介：nodejs 跨域中间件配置细节，Express 跨域中间件配置细节，处理预检请求，修复偶现跨域失效。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18257462.html
+
+原标题：golang github actions 缓存依赖提速
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/87579281.html
+
+原标题：Security：文件上传漏洞攻击面完整防护方案
+简介：golang 命令行参数解析开发，解析命令行入参，开发自定义 CLI 程序，读取启动参数配置服务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/53726959.html
+
+原标题：Git 混乱提交历史清理方法
+简介：golang 半关闭 tcp 连接 shutdown，tcp 连接 shutdown 半关闭，单向关闭读或者写，理解 tcp 关闭流程。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30473404.html
+
+原标题：接口幂等性防重复请求实现
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/31514027.html
+
+原标题：架构笔记：OAuth2授权服务架构模式拆解
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/10462625.html
+
+原标题：排错：反向代理后获取真实IP全部变成内网IP
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/74946971.html
+
+原标题：部署实践：服务器时间同步chrony配置
+简介：语义化版本依赖管理防错乱，项目依赖遵循语义版本约束，规避依赖自动升级引入不兼容变更。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/28917031.html
+
+原标题：Troubleshooting：数据库索引失效，查询性能暴跌
+简介：golang go embed 嵌入静态资源文件，使用 go embed 把静态文件编译进二进制，单文件部署携带静态资源。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/59784770.html
+
+原标题：Security：RPC调用身份认证安全加固
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18270576.html
+
+原标题：golang dockerfile 多阶段构建详解
+简介：消息队列生产消费模型入门，讲解消息队列生产、存储、消费流程，理解异步解耦、削峰，掌握消息队列基础概念。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96169582.html
+
+原标题：golang 系统设计文件存储选型对比
+简介：golang 分布式 ID 雪花算法实现，Go 实现雪花算法，生成分布式全局唯一 ID，适配分库分表主键。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63896949.html
+
+原标题：开发记录：表单参数校验统一中间件实现
+简介：golang go 应用内存使用优化手段，减少对象分配，复用对象，降低 GC 压力，减少 GC 停顿时间。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96040369.html
+
+原标题：API 大版本不兼容平滑迁移
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63836371.html
+
+原标题：后端登录鉴权模块完整开发
+简介：HTTPS 证书过期更新操作，检测 HTTPS 证书到期，更新证书文件，恢复 HTTPS 服务正常访问。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/43836848.html
+
+原标题：部署复盘：蓝绿发布实现零停机业务更新
+简介：golang context 包标准用法规范，context 传递请求元数据、超时、取消，函数第一个参数传入 ctx。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96169252.html
+
+原标题：跨平台换行符统一异常修复
+简介：浏览器缓存强制刷新方案，设置 HTTP 缓存头，处理浏览器缓存旧静态资源，让用户加载更新后的页面。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18261475.html
+
+原标题：Issue：Nginxkeepalive参数不合理大量TIME_WAIT
+简介：golang 分表跨表 join 查询处理方案，分表后跨分片关联查询解决方案，业务层聚合代替数据库 join。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/75029148.html
+
+原标题：Practice：批量异步任务处理系统设计实现
+简介：golang init 函数合理使用边界，少用 init，优先显式调用初始化，便于控制初始化时机。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/64918404.html
+
+原标题：golang goroutine 协程基础实操
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/04146259.html
+
+原标题：Debug日志：生产环境偶发空指针异常排查
+简介：golang go 符号表与调试信息取舍，区分生产环境调试符号取舍，平衡镜像体积与故障排查能力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/49463516.html
+
+原标题：新手指南：虚拟机WSL开发环境入门配置
+简介：golang 内存碎片问题识别与规避，大量小对象频繁分配产生内存碎片，通过对象池减少碎片。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/75018060.html
+
+原标题：Issue：日志输出包含敏感信息造成泄露风险
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18271355.html
+
+原标题：项目实践：多环境配置管理组件设计与实现
+简介：golang http client 全局变量复用，http Client 不要每次请求新建，复用 Transport 提升性能。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/51607031.html
+
+原标题：项目实践：数据库慢日志采集分析落地实践
+简介：golang gin 获取客户端真实 IP，多层代理场景正确拿到用户真实访问 IP，避免拿到网关代理内网地址。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/30463637.html
+
+原标题：golang es 分页深分页性能优化
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/87952304.html
+
+原标题：golang 分布式锁 redis 实现
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/15545878.html
+
+原标题：golang 系统设计日志轮转切割防止磁盘占满
+简介：golang trace 链路追踪 opentelemetry，opentelemetry 实现链路追踪，生成 traceId spanId，完整记录调用链路。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/22645767.html
+
+原标题：golang redis zset 排行榜业务实现
+简介：业务接口幂等完整落地案例，完整业务场景幂等落地示例，覆盖表单提交、回调、重试各类场景。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/93565667.html
+
+原标题：vite 项目配置与构建提速技巧
+简介：golang gorm group by 分组统计，GORM 分组聚合统计，实现 count sum 等统计查询，快速完成统计业务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/25898003.html
+
+原标题：零基础理解数据库事务基础ACID概念
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/50462916.html
+
+原标题：Debug：长连接未设置心跳，连接僵死不回收
+简介：golang go 泛型约束与类型集合，泛型 type set 约束，限制泛型支持类型，写出安全泛型代码。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63591447.html
+
+原标题：nestjs 框架模块化项目搭建
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/41359226.html
+
+原标题：golang mysql limit 大分页优化
+简介：golang 内存碎片问题识别与规避，大量小对象频繁分配产生内存碎片，通过对象池减少碎片。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/93790258.html
+
+原标题：Hands‑on：简易链路追踪原型开发实践
+简介：golang 多协程任务池并发控制，实现协程任务池，控制并发协程数量，防止无限制创建 goroutine。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/63791369.html
+
+原标题：Hands‑on：编写shell健康检查自动重启脚本
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/49357012.html
+
+原标题：golang 系统设计锁优化减少竞争提升吞吐
+简介：golang 滑动窗口限流算法 go 实现，滑动窗口限流，解决固定窗口临界流量突增漏洞，限流更精准。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/60467245.html
+
+四、架构设计｜Architecture
+原标题：git rebase 整理提交历史实操
+简介：模拟登录鉴权权限判断示例，实现简易登录流程，会话状态维护，完成接口权限校验，理解身份鉴权基础逻辑。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/48135813.html
+
+原标题：golang es 批量 bulk 操作性能调优
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/96968474.html
+
+原标题：编译打包产物依赖分析解读
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/74927031.html
+
+原标题：Practice：实现IP黑名单拦截中间件实践
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/18292696.html
+
+原标题：golang k8s liveness readiness 探针
+简介：golang json omitempty 零值坑，omitempty 会忽略零值，区分业务是否需要输出零值字段。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/73635138.html
+
+原标题：实战：Redis集群本地搭建与功能验证
+简介：golang 漏桶算法实现接口限流，漏桶算法控制请求流出速率，平滑突发流量，削平流量峰值。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/85951363.html
+
+原标题：golang 系统设计单元测试边界条件覆盖思路
+简介：项目构建脚本编译打包解析，解读项目构建脚本，理清编译、压缩、资源复制流程，理解打包后产物如何生成。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/65934737.html
+
+原标题：Hands‑on：简易短链接服务完整开发实践
+简介：Git 代码冲突正确处理方式，讲解冲突产生场景，演示冲突文件修改，正确合并代码，防止代码丢失。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/06901366.html
+
+原标题：golang 系统信号信号量处理
+简介：Fork 开源项目同步上游代码，Fork 开源仓库之后，配置上游源，同步官方最新代码，保持代码版本对齐。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/25035812.html
+
+原标题：开发复盘：超时参数统一治理线上服务实践
+简介：golang arp 缓存读取操作，读取系统 arp 缓存表，获取 ip 对应的 mac 地址信息。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/25124683.html
+
+原标题：golang 系统设计 http3 quic 简单原理了解
+简介：golang pprof 线上采集性能数据，线上环境采集 pprof 性能样本，不用停机，分析线上性能问题。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/94633129.html
+
+原标题：实践：灰度流量切分简易实现方案
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/09295741.html
+
+原标题：golang docker 基础命令实操汇总
+简介：序列化版本不一致解析失败，保证序列化对象版本对齐，修复版本不匹配导致对象反序列化失败。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/93697126.html
+
+原标题：golang 静态编译缩小镜像体积
+简介：golang go http 静态文件禁止目录遍历，http.FileServer 防止../ 路径穿越，了解底层安全实现。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/65298569.html
+
+原标题：Debug：并发场景下数据覆盖丢失问题定位
+简介：golang testing.TB Helper 标记辅助函数，t.Helper 标记辅助函数，报错打印真实调用位置。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/31633126.html
+
+原标题：vue pinia 状态管理实战教程
+简介：Docker Compose 一键搭建本地栈，使用 Compose 编排多个容器，一键拉起全套开发依赖服务。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/92681456.html
+
+原标题：限流窗口绕过漏洞修复方案
+简介：golang http 服务性能优化调参，调优 Go HTTP 服务参数，调整连接池，提升服务并发吞吐能力。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/95935704.html
+
+原标题：pnpm 包管理工具实战避坑指南
+简介：golang https 客户端跳过证书校验，开发测试环境跳过 tls 证书校验，仅用于内网测试禁止生产使用。
+ | 原文链接：http://www.blog.qijby.cn/hiaes/74681367.html
+
+?
