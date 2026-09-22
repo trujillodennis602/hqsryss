@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：请求重试组件退避策略实现
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/20563583.shtml
+
+原标题：看懂报错日志快速定位问题
+简介：慢查询分析索引调优数据库实战，抓取慢查询，分析执行计划，优化索引，解决数据库慢查询拖慢业务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52614025.shtml
+
+原标题：golang 系统设计灰度发布流量切分实现
+简介：nodejs 多进程任务分发处理，多进程拆分处理 CPU 密集任务，主进程分发任务，利用多核提升处理速度。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/18263696.shtml
+
+原标题：golang 优雅处理数据库事务
+简介：代码格式化工具团队统一风格，接入格式化工具，统一全团队代码书写风格，减少格式类 git 冲突。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/53725806.shtml
+
+原标题：安全笔记：第三方SDK安全风险评估要点
+简介：golang sort 稳定排序 Stable，稳定排序保留相等元素原有顺序，业务需要稳定排序场景。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29681734.shtml
+
+原标题：golang ci 流水线自动部署 k8s 示例
+简介：golang mongodb go 驱动实操教程，mongo‑go‑driver 操作 mongodb，文档增删改查聚合查询。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/15371403.shtml
+
+原标题：golang 系统设计秒杀防超卖方案
+简介：golang go 程序运行时动态修改配置，运行时热加载配置结构体，原子更新保证并发读取安全。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/08491515.shtml
+
+原标题：Practice：手写简易限流组件，计数器、令牌桶实现
+简介：前端大文件分片上传完整方案，前端分片切割大文件，配合后端分片接口，实现稳定大文件上传。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/71806817.shtml
+
+原标题：坑点：环境配置被打包进镜像引发安全泄露
+简介：游标分页大数据查询性能提升，使用游标分页替代偏移分页，解决大数据 offset 分页性能越来越差问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/28337684.shtml
+
+原标题：数据库排序规则统一结果一致
+简介：golang os 文件权限 mode，os.FileMode 文件权限，读写执行权限位，跨平台权限注意事项。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/95807938.shtml
+
+原标题：架构复盘：消息队列在业务系统中边界与最佳实践
+简介：golang grpc protobuf 开发实操，Go gRPC 开发，编写 Protobuf 定义，服务端客户端完整示例。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/47157462.shtml
+
+原标题：快速入门WebSocket，实现简易双向通信demo
+简介：golang recover 捕获 panic 使用边界，recover 只在 defer 内部生效，协程内部必须捕获本协程 panic。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/03946260.shtml
+
+原标题：Practice：实现接口防重提交组件实践
+简介：golang 项目 makefile 脚本编写，编写 Makefile 脚本，封装编译、测试、构建命令，简化项目操作。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/42624026.shtml
+
+原标题：缓存过期打散防止缓存雪崩
+简介：golang go race 竞态检测工具，‑race 检测数据竞争，编译运行检测并发读写数据竞争 bug。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/51572614.shtml
+
+原标题：Issue：开源项目升级大版本后API不兼容踩坑
+简介：golang base64 编码解码实操，Go Base64 编码解码示例，处理业务场景 Base64 格式数据转换。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29248243.shtml
+
+原标题：JWT 令牌过期异常处理
+简介：golang go 二进制安全 strip 减小体积，strip 剥离二进制调试符号，缩小程序二进制文件体积。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96071816.shtml
+
+原标题：Practice：实现异步回调处理通用组件封装
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/85917061.shtml
+
+原标题：golang channel 通道并发处理
+简介：golang fasthttp 服务开发完整示例，fasthttp 搭建 http 服务，路由、参数读取、响应返回完整业务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63735139.shtml
+
+原标题：浮点计算精度错误处理方案
+简介：golang excel 简单读写操作示例，Go 实现 Excel 简单读写，业务数据导出 Excel 报表。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/83812925.shtml
+
+原标题：golang http 代理客户端配置
+简介：golang 数据库连接池泄露检测逻辑，监控连接池状态，检测连接长时间未归还，告警连接泄漏问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/07138160.shtml
+
+原标题：golang 系统设计配置敏感信息加密存储
+简介：vue3 组合式 API 业务开发实战，Vue3 组合式 API 业务实战示例，拆分业务逻辑组合复用，提升代码组织。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/07289304.shtml
+
+原标题：实战项目：实现简单缓存服务缓存穿透击穿防护
+简介：axios 二次封装请求拦截处理，对 axios 做二次封装，统一请求拦截响应拦截，处理错误、token 自动刷新。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/17246804.shtml
+
+原标题：实战：WebSocket断线重连完整业务处理实践
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63694709.shtml
+
+原标题：操作系统内核版本适配服务
+简介：golang nats 轻量消息队列 go 开发，nats 高性能轻量消息系统，发布订阅模式异步解耦业务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96959571.shtml
+
+原标题：golang mysql 批量导入数据实操
+简介：文件锁正确使用避免死锁，合理使用文件锁，控制多进程访问同一个文件，规避文件锁死锁现象。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/17248241.shtml
+
+原标题：Issue：Nginxkeepalive参数不合理大量TIME_WAIT
+简介：nodejs 中间件模式原理剖析，拆解 Node 中间件设计模式，理解请求逐层处理流转的底层原理。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/37091703.shtml
+
+原标题：复盘总结：系统压测报告模板与分析思路
+简介：golang redis 过期时间处理技巧，设置 key 过期，监控过期事件，基于过期特性实现业务缓存逻辑。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29351363.shtml
+
+原标题：golang 系统设计消息大小限制业务处理方案
+简介：golang go‑zero 配置中心热更新，go‑zero 对接 etcd 配置中心，配置热更新无需重启服务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/19361262.shtml
+
+原标题：Hands‑on：简易频率统计组件Redis实现
+简介：浏览器缓存强制刷新方案，设置 HTTP 缓存头，处理浏览器缓存旧静态资源，让用户加载更新后的页面。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/08706917.shtml
+
+原标题：快速入门简单签名校验实现思路
+简介：golang go 项目工程目录布局标准，不同规模 go 项目目录结构，小型项目中型项目大型微服务项目布局。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/73702817.shtml
+
+原标题：golang redis set 集合去重业务
+简介：golang redis hyperloglog 基数统计，hyperloglog 统计 UV 基数，海量数据去重统计，极低内存开销。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52627015.shtml
+
+原标题：从零学习简单分布式ID生成思路
+简介：文件描述符优化进程卡死修复，及时关闭文件句柄，控制打开文件数量，解决文件句柄耗尽进程卡死。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/39483513.shtml
+
+原标题：新手教程：配置SSH‑Key免密访问GitHub
+简介：golang 优雅处理 http 重定向逻辑，自定义控制 http 重定向跳转次数，防止无限重定向死循环。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30405846.shtml
+
+原标题：项目脚手架模板生成工具
+简介：golang go 死锁检测工具，静态检查、运行检测，发现 channel 锁导致死锁问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/14848170.shtml
+
+原标题：Hands‑on：简易配置中心本地原型实现
+简介：nodejs 内存溢出问题排查修复，Node.js 程序 OOM 排查流程，定位内存泄露，调整内存限制修复崩溃。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29583613.shtml
+
+原标题：golang 系统设计 hot‑reload 热重载 go 开发工具
+简介：分布式 ID 生成器高并发实现，实现高性能分布式 ID 生成器，适配高并发业务，生成全局唯一 ID。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/61489703.shtml
+
+原标题：Hands‑on：简易短消息模板渲染组件实践
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/35228958.shtml
+
+原标题：新手教程：Gittag版本标签打标签实操
+简介：golang 半关闭 tcp 连接 shutdown，tcp 连接 shutdown 半关闭，单向关闭读或者写，理解 tcp 关闭流程。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52927029.shtml
+
+原标题：golang redis 网络超时参数调优
+简介：golang sync.Pool 对象池复用对象，sync.Pool 复用临时对象，减少内存分配，降低 GC 频率提升性能。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96028384.shtml
+
+原标题：本地简易配置中心动态管理
+简介：golang 雪花 id 重复问题排查，排查雪花算法 ID 重复问题，时钟回拨、机器 ID 冲突，给出修复方案。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/37478463.shtml
+
+
+二、踩坑排错｜Troubleshooting
+原标题：TCP 长连接参数优化 TIME_WAIT
+简介：golang sync.Cond 条件变量使用，Cond 条件变量协程等待唤醒，复杂并发同步场景。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52756246.shtml
+
+原标题：golang 系统设计 go benchmark 性能测试实操
+简介：golang kafka 批量消费性能优化，开启批量拉取消息，调整批量大小，提升 kafka 消息消费吞吐量。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/60491691.shtml
+
+原标题：异步任务堆积消费能力优化
+简介：golang go 种子初始化 rand 随机，rand 初始化种子，不初始化会固定序列，理解随机数种子行为。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/93015836.shtml
+
+原标题：Troubleshoot：DNS解析异常导致第三方调用失败
+简介：动态定时任务业务调度实现，实现可以动态增删启停定时任务，无需重启服务调整调度任务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/92061474.shtml
+
+原标题：多环境配置中心灵活切换方案
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30361373.shtml
+
+原标题：线上故障：热点Key打满RedisCPU节点过载
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/64816068.shtml
+
+原标题：系统文件描述符上限调大
+简介：nodejs 集群模式多核利用实现，使用 cluster 集群模式，充分利用服务器多核 CPU，提升服务处理能力。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/47579169.shtml
+
+原标题：golang 系统设计 mq 故障降级业务策略
+简介：css 动画性能优化 GPU 加速，优化 CSS 动画，使用 GPU 加速属性，避免动画过程页面卡顿掉帧。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/25582515.shtml
+
+原标题：实战项目：搭建私有Docker镜像仓库本地实践
+简介：并发数据覆盖加锁安全处理，多线程并发修改同一数据，增加锁机制，防止并发覆盖丢失更新数据。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/74038281.shtml
+
+原标题：踩坑：消息队列消息堆积，消费者处理能力不足
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/42846253.shtml
+
+原标题：golang redis 计数器防超卖示例
+简介：golang goroutine 池任务调度，实现 goroutine 池，复用协程，频繁任务场景减少协程创建销毁开销。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/71624037.shtml
+
+原标题：CI/CD 流水线自动构建部署落地
+简介：大文件导出内存溢出防护，流式处理大文件导出，边读边写，不把全部数据加载内存，规避 OOM。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29916029.shtml
+
+原标题：移动端适配 rem vw 方案对比
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96938171.shtml
+
+原标题：排错：CI流水线构建失败，日志无明确报错
+简介：golang viper 多源配置管理实操，viper 读取配置文件环境变量命令行参数，多源配置优先级管理。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/53745474.shtml
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：前端组件库按需加载性能优化，配置组件库按需引入，避免引入全部组件，减少打包产物体积。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29361636.shtml
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：golang 本地消息表实现最终一致性，本地消息表 + 定时任务轮询，可靠消息实现分布式事务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63705805.shtml
+
+原标题：内存泄漏定位分析完整流程
+简介：golang go 爬虫代理池轮换使用，http 代理池轮换，请求自动切换代理 IP，突破访问限制。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/68699682.shtml
+
+原标题：复盘总结：接口重构兼容旧版本改造复盘
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/73795704.shtml
+
+原标题：记一次日志切割脚本错误直接清空业务日志
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63716959.shtml
+
+原标题：架构笔记：分库分表中间件选型业务约束
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/74815844.shtml
+
+原标题：Debug：异步任务堆积，服务响应越来越慢
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/91694738.shtml
+
+原标题：golang 系统设计 commit 提交规范约定
+简介：golang 消息队列 kafka 消费开发，Go 开发 Kafka 消费程序，消费消息执行业务，理解 Kafka 消费逻辑。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/37188131.shtml
+
+原标题：踩坑：环境变量未生效导致线上配置错乱
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/26461361.shtml
+
+原标题：实战：Docker资源监控查看容器状态实操
+简介：CI 流水线构建失败日志排查，阅读 CI 流水线输出日志，定位构建脚本、依赖、环境导致流水线失败问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52593915.shtml
+
+原标题：golang 系统设计缓存预热缓存降级实现
+简介：golang proto 可选字段处理方案，protobuf 可选字段正确判断，区分未赋值与零值，业务逻辑不出现偏差。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52716149.shtml
+
+原标题：nodejs jwt 登录鉴权完整示例
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/75916960.shtml
+
+原标题：线程调度优化减少上下文切换
+简介：golang go 并发模式 fan‑out fan‑in，fanout 分发任务 fanin 汇总结果，多协程并发处理任务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/64816971.shtml
+
+原标题：hosts 配置本地回环访问修复
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/25957571.shtml
+
+原标题：全局异常处理器接口返回统一
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30473793.shtml
+
+原标题：OpenSource：开源项目风险评估依赖安全检查
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/74849137.shtml
+
+原标题：安全实践：SQL注入产生场景与完整防御手段
+简介：golang 布隆过滤器实现去重，Go 实现布隆过滤器，海量数据去重，节省内存开销，提升判断效率。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/62927955.shtml
+
+原标题：项目实践：MySQL读写分离本地模拟实践
+简介：golang json 解析未知动态 json 结构，解析到 map [string] any 处理未知 json，动态读取字段。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/51401404.shtml
+
+原标题：golang mongodb 事务多文档使用
+简介：跨平台换行符统一异常修复，统一代码文件换行符，解决不同操作系统换行符不一致带来脚本执行异常。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/53734027.shtml
+
+原标题：golang 系统设计 rest http 方法使用原则
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30361369.shtml
+
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/39472524.shtml
+
+原标题：golang mysql 防止 sql 注入实践
+简介：Shell 脚本自动化命令编写，讲解 Shell 基础语法，编写自动化脚本，完成批量执行、文件处理，解放重复手工操作。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/92571718.shtml
+
+原标题：实战项目：GitHubAction自动测试构建实践
+简介：缓存过期打散防止缓存雪崩，对缓存过期时间增加随机偏移，避免大量缓存同时失效引发缓存雪崩。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/70404725.shtml
+
+原标题：Git 误提交撤销回退实操教程
+简介：数据库连接池参数调优，调整连接池最大最小连接数，空闲超时，避免连接耗尽或者资源浪费。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96357469.shtml
+
+原标题：golang 系统设计单元测试编写原则最佳实践
+简介：限流组件计数器令牌桶模式实现，实现计数器、令牌桶两种限流算法，封装可复用限流组件。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30452574.shtml
+
+原标题：golang 系统设计 protobuf 可选字段使用技巧
+简介：正则表达式优化 CPU 占满问题，优化正则表达式写法，避免回溯，防止正则运算 CPU 占用 100%。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29491474.shtml
+
+三、实战开发｜Practice
+原标题：Issue：日志疯狂打日志快速占满磁盘空间
+简介：golang 协程 panic 捕获防止崩溃，协程内部捕获 panic，防止单个协程恐慌造成整个 Go 进程崩溃。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/06178481.shtml
+
+原标题：前端图片懒加载性能优化
+简介：golang go http 安全头配置实践，设置 http 安全响应头，防范 XSS、点击劫持，提升 web 服务安全性。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/68316916.shtml
+
+原标题：golang 系统设计敏感数据加密存储方案
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/19251392.shtml
+
+原标题：Mock 接口服务快速搭建实操
+简介：限流窗口绕过漏洞修复方案，修复限流时间窗口漏洞，避免攻击者绕过限流规则，保障接口防护有效。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52605806.shtml
+
+原标题：零基础理解依赖管理与包管理器
+简介：golang redis 客户端业务使用，Go Redis 客户端对接，实现缓存、计数器，适配各类 Redis 业务场景。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/42605708.shtml
+
+原标题：Issue：WSL2内存持续暴涨不自动释放
+简介：golang go 项目 CI github actions 配置，github actions 实现 go 项目 ci，自动测试、代码检查、编译打包镜像。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96360452.shtml
+
+原标题：golang 系统设计 pre‑commit 钩子本地代码校验
+简介：golang 性能压测 wr 工具实操指南，wr 压测工具对 Go 接口压测，观察 QPS 延迟，定位接口性能瓶颈。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/47478696.shtml
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/17402570.shtml
+
+原标题：新手向：开源项目依赖安装失败排查
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/97250393.shtml
+
+原标题：golang 系统设计分库分表 id 全局生成策略
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/51584959.shtml
+
+原标题：golang 系统设计读写分离延迟业务兼容
+简介：nodejs 接口限流防刷代码实现，Node 层实现接口限流，限制 IP 访问频次，防护接口被恶意高频调用。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/10477463.shtml
+
+原标题：排错：本地[localhost](https://localhost)可以，127001访问失败
+简介：前端静态缓存更新生效处理，修改静态资源版本标识，处理浏览器强缓存，让更新资源生效。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/37170584.shtml
+
+原标题：golang docker 镜像体积优化技巧
+简介：多实例部署 Session 共享方案，多服务实例部署场景，实现 Session 共享，保证用户登录状态跨实例生效。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/47791705.shtml
+
+原标题：golang docker 部署 es 本地开发
+简介：golang grafana 面板 go 业务指标可视化，prometheus 指标对接 grafana，配置监控面板可视化业务状态。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/84513715.shtml
+
+原标题：golang minio 存储桶权限管控配置
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/14857393.shtml
+
+原标题：磁盘 inode 耗尽文件创建失败
+简介：golang redis hash 结构业务实战，使用 Redis Hash 存储对象数据，适合对象字段频繁更新业务场景。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63790692.shtml
+
+原标题：坑点：Git工作区换行符CRLF/LF跨平台坑
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/82355577.shtml
+
+原标题：DevOps：Docker镜像优化，减小镜像体积实践
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/59901335.shtml
+
+原标题：开发复盘：大数据量分页避免offset性能问题
+简介：golang 接口限流中间件开发，Gin 开发限流中间件，接口层实现访问频率限制，防护接口流量。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/26797992.shtml
+
+原标题：程序性能指标 CPU 内存监控
+简介：golang 压缩 zip 文件生成解压，golang 实现 zip 压缩打包，解压 zip 归档文件，处理批量文件归档。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/50123256.shtml
+
+原标题：CI 构建缓存加速编译速度
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/65047464.shtml
+
+原标题：golang 系统设计大流量削峰处理方案
+简介：接口签名校验防篡改实现，实现请求签名验签逻辑，校验请求参数未被篡改，提升接口调用安全性。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/53614250.shtml
+
+原标题：布隆过滤器误判问题修正
+简介：eslint prettier 代码规范落地，配置 eslint 与 prettier，做代码检查格式化，统一前端团队代码风格。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/39405840.shtml
+
+原标题：golang 系统设计内部服务调用超时设置要点
+简介：golang errors.Is errors.As 错误判断，判断是否为指定错误类型，提取自定义错误信息，错误处理进阶。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/04050374.shtml
+
+原标题：golang redis 地理位置 geo 使用
+简介：golang 大内存分配 GC 抖动规避，避免瞬时大量对象创建，分批处理，防止 GC 抖动业务抖动。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/42625360.shtml
+
+原标题：DevOps：多阶段构建Dockerfile最佳实践
+简介：GitHub 项目提交推送完整流程讲解，从仓库初始化到提交推送远程仓库，梳理全流程细节，避开新手高频错误。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/07238473.shtml
+
+原标题：新手教程：本地项目初始化gitignore配置
+简介：golang go 爬虫请求速率控制，爬虫限频、代理轮换，设置 UA，防止爬虫被目标站点封禁 IP。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/18290381.shtml
+
+原标题：坑点：依赖缓存未更新，旧代码持续运行
+简介：golang 链路追踪简易实现方案，简易链路追踪实现，传递 traceId，记录调用链路，方便排查慢调用。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63735130.shtml
+
+原标题：Architecture：灰度、蓝绿、金丝雀发布架构对比
+简介：golang html 模板渲染简单示例，Go HTML 模板渲染，服务端渲染页面，填充数据输出 HTML 页面。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/18583627.shtml
+
+原标题：golang docker volume 数据持久化
+简介：golang 表单文件大小限制配置，限制表单上传文件最大体积，拦截超大文件上传请求，保护服务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96139180.shtml
+
+原标题：golang 系统设计 tcp keepalive 参数调优实践
+简介：多实例部署 Session 共享方案，多服务实例部署场景，实现 Session 共享，保证用户登录状态跨实例生效。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/42683927.shtml
+
+原标题：Hands‑on：搭建OAuth2简易授权服务Demo
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/85283697.shtml
+
+原标题：OOMKilled 容器被杀完整排查
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63817182.shtml
+
+原标题：坑点：Git仓库过大，clone速度极慢解决方案
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96049271.shtml
+
+原标题：空指针异常判空容错处理
+简介：golang os 文件权限 mode，os.FileMode 文件权限，读写执行权限位，跨平台权限注意事项。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63168474.shtml
+
+原标题：容器软链接文件权限修复
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/31413929.shtml
+
+原标题：golang 互斥锁读写锁并发安全
+简介：golang go 运行时获取编译信息，程序内部读取编译时间 git 版本，接口输出程序版本信息。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/18412920.shtml
+
+原标题：golang 系统设计 git 钩子自动化校验实现
+简介：重复提交幂等防护再次讲解，梳理前端重复点击、网络重试场景，落地接口幂等，杜绝重复业务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63139171.shtml
+
+原标题：依赖安装失败全方位排错
+简介：golang redis 事务 multi exec 使用，Redis 事务 multi exec 实现批量命令原子执行，理解 redis 事务隔离特性。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/85938172.shtml
+
+原标题：开源项目构建失败排查步骤
+简介：SourceMap 生成线上报错定位，项目打包生成 SourceMap 文件，线上报错可以还原源码，快速定位报错位置。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63745148.shtml
+
+四、架构设计｜Architecture
+原标题：DevOps：环境配置管理区分开发测试生产
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/97149282.shtml
+
+原标题：golang 系统设计线上故障排查完整流程
+简介：golang 限制 multipart 内存大小，设置 MaxMemory，大文件写入磁盘临时文件防止内存暴涨。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/30589515.shtml
+
+原标题：HelloWorld：快速上手新项目最小可运行示例
+简介：react 状态管理方案选型对比，对比 Redux、Zustand 等 React 状态管理库，分析适用业务场景辅助选型。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52735151.shtml
+
+原标题：golang 系统设计技术方案评审关注点清单参考
+简介：golang os/exec 安全执行外部命令，规避命令注入漏洞，参数分离，禁止拼接命令字符串执行。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96349282.shtml
+
+原标题：实战项目：实现简单缓存服务缓存穿透击穿防护
+简介：golang 信号量 semaphore 并发限制，基于 semaphore 实现并发数量控制，保护数据库、第三方接口不被打满。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/29494737.shtml
+
+原标题：OpenSource：开源项目版本发布CHANGELOG编写
+简介：golang 分布式 ID 雪花算法实现，Go 实现雪花算法，生成分布式全局唯一 ID，适配分库分表主键。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/18381708.shtml
+
+原标题：Hands‑on：简易频率统计组件Redis实现
+简介：golang 文件句柄耗尽排查处理，统计进程打开文件句柄，找到未关闭文件，修复句柄泄漏问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/52603472.shtml
+
+原标题：golang 系统设计故障止损降级回滚执行原则
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/16825805.shtml
+
+原标题：golang 系统设计代码评审高效沟通原则思路
+简介：golang mysql 事务回滚异常处理，Go MySQL 事务异常捕获，正确回滚事务，保证异常场景数据回滚。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/83703623.shtml
+
+原标题：golang 系统设计秒杀防超卖方案
+简介：golang 分布式锁防死锁实现要点，锁超时、续期、锁持有者校验，避免锁死锁，保障分布式锁可靠性。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/85947464.shtml
+
+原标题：Troubleshooting：依赖安装失败完整排查清单
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96149393.shtml
+
+原标题：golang mongodb 事务多文档使用
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63806959.shtml
+
+原标题：golang 日志脱敏敏感字段过滤
+简介：golang 项目 makefile 脚本编写，编写 Makefile 脚本，封装编译、测试、构建命令，简化项目操作。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/96162585.shtml
+
+原标题：实战：数据库索引设计，复合索引最佳实践
+简介：动态定时任务业务调度实现，实现可以动态增删启停定时任务，无需重启服务调整调度任务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/84915849.shtml
+
+原标题：golang 单例模式实现几种方式
+简介：golang fasthttp 客户端连接池调优，fasthttp 客户端连接池配置，复用连接提升请求性能。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/41635151.shtml
+
+原标题：新手教程：本地环境变量配置全流程
+简介：golang go‑zero 监控指标埋点，go‑zero 内置 metrics 监控，上报业务指标对接监控平台。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/63817117.shtml
+
+原标题：GitHub 项目提交推送完整流程讲解
+简介：golang 容器内读取 k8s 配置 configmap，程序读取 k8s configmap 配置，配置与镜像分离便于运维。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/59705859.shtml
+
+原标题：Debug：静态资源缓存策略错误，用户看不到更新
+简介：golang embed 目录读取文件列表，embed 嵌入整个目录，读取目录下全部文件，做静态资源服务。
+ | 原文链接：http://www.blog.jpmoqg.cn/fzwcr/62705861.shtml
+
+?
