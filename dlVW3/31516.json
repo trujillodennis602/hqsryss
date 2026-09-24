@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：避坑：ORM框架隐式查询产生大量慢SQL
+简介：golang go 随机数安全与非安全，math/rand 伪随机与 crypto/rand 密码学安全随机，区分业务场景。
+ | 原文链接：m.mmd5ca.asia/Article/details/4868473.sHtML
+
+原标题：golang 系统设计异步化改造业务流程思路
+简介：golang 异步任务队列 worker 池开发，任务入数据库或 redis，worker 池消费执行，异步处理耗时业务。
+ | 原文链接：m.mmd5ca.asia/Article/details/6302915.sHtML
+
+原标题：程序预加载加快服务启动速度
+简介：编译打包产物依赖分析解读，分析打包之后产物组成，理清运行依赖文件，排查打包后缺失文件问题。
+ | 原文链接：m.mmd5ca.asia/Article/details/3252880.sHtML
+
+原标题：Practice：实现请求ID透传全链路日志实践
+简介：数值类型溢出错乱问题修复，选择合适数值存储类型，处理数值溢出，避免数据存储错乱结果异常。
+ | 原文链接：m.mmd5ca.asia/Article/details/9812046.sHtML
+
+原标题：golang gin 静态资源访问配置
+简介：分布式锁失效问题排查修复，分析分布式锁失效场景，修复锁超时、续期问题，保证锁逻辑可靠。
+ | 原文链接：m.mmd5ca.asia/Article/details/4834694.sHtML
+
+原标题：pnpm 包管理工具实战避坑指南
+简介：golang 项目目录分层规范设计，Go 后端项目目录分层规范，按领域分层，提高项目可读性可维护性。
+ | 原文链接：m.mmd5ca.asia/Article/details/7595925.sHtML
+
+原标题：golang 系统设计 api 接口兼容性设计原则
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/8202707.sHtML
+
+原标题：Performance：批量导入数据性能优化实践
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：m.mmd5ca.asia/Article/details/4169319.sHtML
+
+原标题：坑点：环境配置写死代码，上线忘记修改
+简介：golang errors.Is errors.As 错误判断，判断是否为指定错误类型，提取自定义错误信息，错误处理进阶。
+ | 原文链接：m.mmd5ca.asia/Article/details/4080281.sHtML
+
+原标题：浏览器本地存储安全使用技巧
+简介：golang 雪花算法 workId 自动获取，自动获取机器 workId，不用手动配置，简化分布式 id 部署。
+ | 原文链接：m.mmd5ca.asia/Article/details/0502818.sHtML
+
+原标题：golang 系统设计序列化性能选型对比
+简介：golang trace 链路追踪 opentelemetry，opentelemetry 实现链路追踪，生成 traceId spanId，完整记录调用链路。
+ | 原文链接：m.mmd5ca.asia/Article/details/5262736.sHtML
+
+原标题：golang 接口返回统一封装工具
+简介：golang go 项目工程目录布局标准，不同规模 go 项目目录结构，小型项目中型项目大型微服务项目布局。
+ | 原文链接：m.mmd5ca.asia/Article/details/7192816.sHtML
+
+原标题：布隆过滤器数据高效去重实现
+简介：业务错误码完整落地实践，落地完整业务错误码，枚举全部业务异常，统一返回，配套文档说明。
+ | 原文链接：m.mmd5ca.asia/Article/details/8592706.sHtML
+
+原标题：架构复盘：限流系统架构防止恶意流量冲击
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：m.mmd5ca.asia/Article/details/2647968.sHtML
+
+原标题：golang 系统设计消息大小限制业务处理方案
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：m.mmd5ca.asia/Article/details/6486736.sHtML
+
+原标题：方案设计：异步解耦业务架构边界识别
+简介：CI 流水线超时时间延长配置，调大 CI 任务超时阈值，解决构建任务耗时较长被流水线强制终止。
+ | 原文链接：m.mmd5ca.asia/Article/details/5273514.sHtML
+
+原标题：golang 分布式 ID 雪花算法实现
+简介：golang go 初始化顺序包变量 init 函数，包级变量初始化，init 执行顺序，理解包加载执行流程。
+ | 原文链接：m.mmd5ca.asia/Article/details/5117857.sHtML
+
+原标题：golang k8s 网络策略网络隔离设置
+简介：nodejs 项目 pm2 部署运维指南，使用 PM2 管理 Node 服务，进程守护、日志、重启，线上部署运维实操。
+ | 原文链接：m.mmd5ca.asia/Article/details/7493372.sHtML
+
+原标题：方案对比：同步事务vs事务消息最终一致性
+简介：nodejs 事件循环机制完整讲解，拆解 Node.js 事件循环各个阶段，理解异步回调执行顺序。
+ | 原文链接：m.mmd5ca.asia/Article/details/3049069.sHtML
+
+原标题：Practice：从零实现轻量后端接口服务完整实践
+简介：golang 命令行交互 cobra 开发 cli，cobra 库开发功能完善命令行工具，子命令参数标志解析。
+ | 原文链接：m.mmd5ca.asia/Article/details/6362486.sHtML
+
+原标题：项目实践：定时任务防重复执行落地实践
+简介：代理 HTTPS 证书访问异常处理，配置代理根证书，解决代理环境 HTTPS 证书校验失败无法访问外网。
+ | 原文链接：m.mmd5ca.asia/Article/details/6402725.sHtML
+
+原标题：golang 系统设计线上问题复现思路简单讲解
+简介：模拟登录鉴权权限判断示例，实现简易登录流程，会话状态维护，完成接口权限校验，理解身份鉴权基础逻辑。
+ | 原文链接：m.mmd5ca.asia/Article/details/8592695.sHtML
+
+原标题：golang 系统设计数据库版本迁移回滚方案
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：m.mmd5ca.asia/Article/details/6484627.sHtML
+
+原标题：方案设计：多租户系统架构三种实现模式对比
+简介：前端打包分包加载提速方案，前端打包做代码分包，拆分大 bundle，页面按需加载，提升首屏加载速度。
+ | 原文链接：m.mmd5ca.asia/Article/details/5372636.sHtML
+
+原标题：大文件导出内存溢出防护
+简介：golang http 代理客户端配置，Go HTTP Client 配置代理，通过代理服务器发起网络请求。
+ | 原文链接：m.mmd5ca.asia/Article/details/4150391.sHtML
+
+原标题：百万数据 Excel 导出内存优化
+简介：golang slice 切片底层原理与坑点，切片扩容、截取、底层数组共享，规避切片修改互相影响数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/1525039.sHtML
+
+原标题：网关超时时间调优后端等待
+简介：golang go 接口定义原则小接口，go 小接口设计原则，接口尽量小，只定义必要方法，提升代码灵活性。
+ | 原文链接：m.mmd5ca.asia/Article/details/2151692.sHtML
+
+原标题：rebase 操作防止代码丢失
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：m.mmd5ca.asia/Article/details/9605746.sHtML
+
+原标题：nodejs 消息队列消费服务开发
+简介：golang excel 大文件读取流式解析，流式读取大 excel 文件，逐行解析数据，不加载全部内容进内存。
+ | 原文链接：m.mmd5ca.asia/Article/details/1840292.sHtML
+
+原标题：分布式任务调度集群原型开发
+简介：golang 系统资源限制读取 cpu 内存，读取系统容器 cpu 内存限制，程序适配容器资源配额做业务调优。
+ | 原文链接：m.mmd5ca.asia/Article/details/5048046.sHtML
+
+原标题：golang 系统设计告警升级通知策略配置思路
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：m.mmd5ca.asia/Article/details/5732335.sHtML
+
+原标题：Practice：实现请求body重复读取中间件实践
+简介：GitHub Markdown 文档语法汇总，整理 Markdown 常用语法，编写仓库 README、文档，提升开源项目文档排版质量。
+ | 原文链接：m.mmd5ca.asia/Article/details/9346770.sHtML
+
+原标题：golang 系统设计 rest 错误返回格式统一规范
+简介：golang context.WithCancel 手动取消上下文，WithCancel 生成可取消 ctx，手动调用 cancel 触发取消。
+ | 原文链接：m.mmd5ca.asia/Article/details/2687883.sHtML
+
+原标题：Architecture：鉴权授权系统架构设计思路
+简介：golang 单元测试 table‑driven，表格驱动单元测试写法，批量输入多组测试用例，简化单元测试代码。
+ | 原文链接：m.mmd5ca.asia/Article/details/3791122.sHtML
+
+原标题：golang 系统设计锁优化减少竞争提升吞吐
+简介：golang go 版本管理 go install 安装工具，go install 安装指定版本 go 工具，管理本地 go 工具版本。
+ | 原文链接：m.mmd5ca.asia/Article/details/2569798.sHtML
+
+原标题：golang 系统设计 e2e 端到端测试简单落地思路
+简介：golang base64 大文件流式编解码，大文件流式 base64 转换，不用一次性加载全部文件进入内存。
+ | 原文链接：m.mmd5ca.asia/Article/details/7894603.sHtML
+
+原标题：golang 系统设计定时任务分片执行分布式思路
+简介：服务启动依赖顺序配置正确，配置服务启动依赖关系，保证依赖服务就绪之后再启动当前业务服务。
+ | 原文链接：m.mmd5ca.asia/Article/details/3252224.sHtML
+
+原标题：项目实践：数据库慢日志采集分析落地实践
+简介：golang go 零停机升级实践要点，socket 继承，流量无损，旧连接处理完毕后旧进程退出。
+ | 原文链接：m.mmd5ca.asia/Article/details/3714580.sHtML
+
+原标题：安全复盘：业务数据脱敏防止泄露实践
+简介：golang 结构体 json 序列化坑点，梳理 Go 结构体 JSON 序列化高频坑点，字段大小写、零值处理问题。
+ | 原文链接：m.mmd5ca.asia/Article/details/2841281.sHtML
+
+原标题：快速上手简单的限流逻辑模拟实现
+简介：程序信号中断退出处理逻辑，捕获系统中断信号，执行资源释放、关闭连接，实现程序优雅退出。
+ | 原文链接：m.mmd5ca.asia/Article/details/7251391.sHtML
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang 系统设计定时任务调度时间校准要点
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：m.mmd5ca.asia/Article/details/2930281.sHtML
+
+原标题：golang 系统设计技术债务识别登记治理思路
+简介：代码格式化工具团队统一风格，接入格式化工具，统一全团队代码书写风格，减少格式类 git 冲突。
+ | 原文链接：m.mmd5ca.asia/Article/details/9728918.sHtML
+
+原标题：服务启动依赖顺序配置正确
+简介：nodejs 日志轮转生产环境配置，配置 Node 日志轮转切割，防止日志文件无限变大，适配生产环境。
+ | 原文链接：m.mmd5ca.asia/Article/details/6273858.sHtML
+
+原标题：golang 系统设计分表扩容数据平滑迁移思路
+简介：golang go time 时区数据库内置，go 内置时区数据库，不用系统时区文件，容器时区不依赖系统。
+ | 原文链接：m.mmd5ca.asia/Article/details/2695746.sHtML
+
+原标题：golang github actions 发布 release 包
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：m.mmd5ca.asia/Article/details/0728060.sHtML
+
+原标题：避坑：预编译SQL失效，出现SQL注入风险
+简介：容器资源限制防止宿主机过载，设置容器 CPU 内存资源上限，避免单个容器耗尽宿主机全部硬件资源。
+ | 原文链接：m.mmd5ca.asia/Article/details/7583814.sHtML
+
+原标题：项目实践：搭建监控大盘查看系统关键指标
+简介：分布式 ID 全局唯一生成方案，讲解分布式 ID 生成思路，实现全局唯一 ID，满足分布式系统主键生成需求。
+ | 原文链接：m.mmd5ca.asia/Article/details/4147360.sHtML
+
+原标题：golang 令牌桶限流中间件 gin
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：m.mmd5ca.asia/Article/details/4169584.sHtML
+
+原标题：安全实践：请求输入校验防御恶意参数
+简介：内存泄漏定位分析完整流程，分享内存泄漏排查步骤，定位没有释放的对象，解决内存持续上涨问题。
+ | 原文链接：m.mmd5ca.asia/Article/details/0273815.sHtML
+
+原标题：性能笔记：锁优化减少竞争提升并发吞吐
+简介：Docker 容器时区错误修复方案，修复 Docker 容器内部时区偏差，解决容器内时间不对引发业务逻辑异常。
+ | 原文链接：m.mmd5ca.asia/Article/details/0717959.sHtML
+
+原标题：golang ci 流水线单元测试集成测试
+简介：文件句柄耗尽资源泄露处理，定位文件句柄泄露，修复文件忘记关闭问题，解决句柄耗尽服务报错。
+ | 原文链接：m.mmd5ca.asia/Article/details/7415526.sHtML
+
+原标题：线上异常：线程池队列拒绝策略配置错误丢任务
+简介：golang sync.Mutex 互斥锁正确模式，互斥锁 defer Unlock，锁粒度控制，避免锁范围过大。
+ | 原文链接：m.mmd5ca.asia/Article/details/1637259.sHtML
+
+原标题：静态站点自动部署发布方案
+简介：git stash 代码暂存切换分支，使用 stash 暂存未提交代码，切换其他分支处理紧急任务，再恢复原有工作进度。
+ | 原文链接：m.mmd5ca.asia/Article/details/2063526.sHtML
+
+原标题：布隆过滤器误判问题修正
+简介：限流窗口绕过漏洞修复方案，修复限流时间窗口漏洞，避免攻击者绕过限流规则，保障接口防护有效。
+ | 原文链接：m.mmd5ca.asia/Article/details/9605131.sHtML
+
+原标题：golang 系统设计本地缓存过期淘汰策略选型
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：m.mmd5ca.asia/Article/details/2939282.sHtML
+
+原标题：线上故障：Redis内存淘汰策略错误数据丢失
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/7484515.sHtML
+
+原标题：DevOps：容器网络模式选型与坑点总结
+简介：极简方式搭建个人技术文档站点，使用轻量化工具快速部署文档站点，支持 markdown 编写，实现知识沉淀与对外分享。
+ | 原文链接：m.mmd5ca.asia/Article/details/1824031.sHtML
+
+原标题：golang 系统设计数据库连接池调优实践
+简介：golang go 调度器 GMP 模型通俗讲解，拆解 GMP 模型，理解 goroutine M P 调度原理，看懂调度状态。
+ | 原文链接：m.mmd5ca.asia/Article/details/3117959.sHtML
+
+原标题：WSL 文件权限访问异常修复
+简介：golang go mod replace 本地模块替换，replace 替换模块为本地目录，修改第三方库本地调试。
+ | 原文链接：m.mmd5ca.asia/Article/details/2940152.sHtML
+
+原标题：内存溢出问题现象识别排查
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：m.mmd5ca.asia/Article/details/6381626.sHtML
+
+原标题：前端组件库按需加载性能优化
+简介：CORS 跨域问题多种解决方案，对比 CORS、代理等不同跨域方案优缺点，根据业务场景选择合适的跨域处理方式。
+ | 原文链接：m.mmd5ca.asia/Article/details/5273572.sHtML
+
+原标题：静态站点自动部署发布方案
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：m.mmd5ca.asia/Article/details/9663637.sHtML
+
+原标题：golang 系统设计指标埋点代码低侵入实现
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：m.mmd5ca.asia/Article/details/0714031.sHtML
+
+原标题：golang redis 事务 multi exec 使用
+简介：项目构建脚本编译打包解析，解读项目构建脚本，理清编译、压缩、资源复制流程，理解打包后产物如何生成。
+ | 原文链接：m.mmd5ca.asia/Article/details/7485737.sHtML
+
+原标题：优化实践：分页查询性能优化解决offset问题
+简介：golang sync.Pool 对象池复用对象，sync.Pool 复用临时对象，减少内存分配，降低 GC 频率提升性能。
+ | 原文链接：m.mmd5ca.asia/Article/details/1836745.sHtML
+
+原标题：文件批量导入导出功能实现
+简介：golang go 时间 time.Timer time.Ticker，定时器与周期定时器，Stop Reset 正确使用，防止资源泄漏。
+ | 原文链接：m.mmd5ca.asia/Article/details/5259583.sHtML
+
+原标题：golang 系统设计日志采样降低存储开销方案
+简介：golang sync.Cond 条件变量使用，Cond 条件变量协程等待唤醒，复杂并发同步场景。
+ | 原文链接：m.mmd5ca.asia/Article/details/7594958.sHtML
+
+原标题：分布式事务最终一致性实现
+简介：TCP 长连接参数优化 TIME_WAIT，调整 TCP 内核参数，优化长连接，减少大量 TIME_WAIT 连接占用资源。
+ | 原文链接：m.mmd5ca.asia/Article/details/7485916.sHtML
+
+原标题：golang kafka 消息顺序性保证方案
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：m.mmd5ca.asia/Article/details/2940204.sHtML
+
+原标题：新手避坑：第一次提交GitHub项目完整流程
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：m.mmd5ca.asia/Article/details/9718393.sHtML
+
+原标题：优化实践：异步改造同步接口提升吞吐能力
+简介：golang tcp keepalive 参数程序配置，go 程序设置 tcp keepalive，操作系统 tcp 保活参数，清理僵死连接。
+ | 原文链接：m.mmd5ca.asia/Article/details/4158596.sHtML
+
+原标题：golang 系统设计消息体序列化选型对比
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：m.mmd5ca.asia/Article/details/4168181.sHtML
+
+原标题：入门实践：使用Git完成第一次代码提交与推送
+简介：golang go test 单元测试命令参数详解，gotest 参数覆盖率，指定测试用例，跳过测试，单元测试命令实操。
+ | 原文链接：m.mmd5ca.asia/Article/details/6381404.sHtML
+
+原标题：入门实践：简单批量处理脚本编写
+简介：golang 数据库 ORM 框架选型对比，gorm xorm sqlx 对比各 ORM 优缺点，根据业务场景选型。
+ | 原文链接：m.mmd5ca.asia/Article/details/6484738.sHtML
+
+原标题：Practice：实现跨机器文件同步脚本实践
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：m.mmd5ca.asia/Article/details/3157360.sHtML
+
+原标题：设计思考：防雪崩，系统过载保护架构设计
+简介：日志敏感信息脱敏泄露防护，日志打印时自动脱敏手机号身份证，避免日志输出泄露用户隐私数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/8591695.sHtML
+
+原标题：本地运行正常线上报错排查
+简介：布隆过滤器数据高效去重实现，实现布隆过滤器组件，用于海量数据去重，节省大量内存空间。
+ | 原文链接：m.mmd5ca.asia/Article/details/8181816.sHtML
+
+原标题：golang 系统设计第三方接口调用封装思路
+简介：请求重试组件退避策略实现，封装重试组件，实现指数退避策略，避免大量请求同时重试压垮下游。
+ | 原文链接：m.mmd5ca.asia/Article/details/9638252.sHtML
+
+原标题：golang 项目目录分层规范设计
+简介：nodejs 进程间通信 IPC 实操，演示 Node.js 主进程子进程 IPC 通信，进程之间传递消息数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/9504626.sHtML
+
+原标题：前端组件库按需加载性能优化
+简介：golang hertz http 框架快速上手，hertz 高性能 http 框架，路由中间件参数校验快速开发接口服务。
+ | 原文链接：m.mmd5ca.asia/Article/details/7490597.sHtML
+
+三、实战开发｜Practice
+原标题：项目实践：分布式会话Redis存储落地实践
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：m.mmd5ca.asia/Article/details/1835031.sHtML
+
+原标题：golang kafka 批量发送消费优化
+简介：开源源码阅读拆解学习思路，分享阅读大型开源项目方法，从入口文件逐层拆解模块，降低源码学习门槛。
+ | 原文链接：m.mmd5ca.asia/Article/details/2045082.sHtML
+
+原标题：实战项目：Nginx限速、限流、防爬虫配置实践
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：m.mmd5ca.asia/Article/details/5274527.sHtML
+
+原标题：Cookie Session 会话状态管理
+简介：vite 项目配置与构建提速技巧，讲解 vite 配置优化手段，提升开发热更新速度与生产构建打包效率。
+ | 原文链接：m.mmd5ca.asia/Article/details/5279593.sHtML
+
+原标题：golang kafka 消息丢失重复消费
+简介：代码模块化组件化拆分思路，讲解代码拆分原则，将大业务拆分为独立模块组件，提升代码复用与维护能力。
+ | 原文链接：m.mmd5ca.asia/Article/details/2050404.sHtML
+
+原标题：golang 系统设计配置热更新不重启服务实现
+简介：消息队列重复消费业务处理，实现消息消费幂等，处理重复投递消息，保证多次消费业务结果一致。
+ | 原文链接：m.mmd5ca.asia/Article/details/3046249.sHtML
+
+原标题：坑点：环境配置写死代码，上线忘记修改
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：m.mmd5ca.asia/Article/details/2938473.sHtML
+
+原标题：golang viper 配置热更新实操
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：m.mmd5ca.asia/Article/details/7417047.sHtML
+
+原标题：golang 系统设计联合索引设计避坑要点
+简介：golang gorm select 指定查询字段，指定查询字段，避免查询全部字段，减少数据传输，提升查询性能。
+ | 原文链接：m.mmd5ca.asia/Article/details/4157069.sHtML
+
+原标题：golang 系统设计技术债务识别登记治理思路
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：m.mmd5ca.asia/Article/details/2946848.sHtML
+
+原标题：golang 系统设计 api 网关核心能力梳理
+简介：golang sync.Map 高并发 map 使用场景，sync.Map 适用场景，读写实操，对比普通 map 加锁性能差异。
+ | 原文链接：m.mmd5ca.asia/Article/details/1824252.sHtML
+
+原标题：数据库死锁成因规避方案
+简介：YAML 配置文件语法快速上手，讲解 YAML 基础语法、缩进规则，编写项目配置文件，规避语法错误引发程序异常。
+ | 原文链接：m.mmd5ca.asia/Article/details/5261402.sHtML
+
+原标题：Git 混乱提交历史清理方法
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：m.mmd5ca.asia/Article/details/8594058.sHtML
+
+原标题：golang 系统设计数据库慢请求排查流程
+简介：CLI 工具进度条交互效果开发，在命令行工具增加进度条展示，直观反馈任务执行进度，优化命令行体验。
+ | 原文链接：m.mmd5ca.asia/Article/details/7302514.sHtML
+
+原标题：全局异常处理器接口返回统一
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：m.mmd5ca.asia/Article/details/4157069.sHtML
+
+原标题：Docker 容器时区错误修复方案
+简介：数据库主从延迟业务兼容处理，业务适配主从复制延迟，避免读取从库拿到还未同步完成旧数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/8505950.sHtML
+
+原标题：DevOps：CI构建产物缓存复用加速编译
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：m.mmd5ca.asia/Article/details/4372694.sHtML
+
+原标题：golang 系统设计消息发送确认机制配置实操
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：m.mmd5ca.asia/Article/details/5262404.sHtML
+
+原标题：全量回归测试提升代码质量
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：m.mmd5ca.asia/Article/details/6274718.sHtML
+
+原标题：golang gin 静态资源访问配置
+简介：git rebase 整理提交历史实操，使用 rebase 整理杂乱提交记录，将多条提交合并，保持 git 提交历史干净线性。
+ | 原文链接：m.mmd5ca.asia/Article/details/8594635.sHtML
+
+原标题：效率笔记：VSCode插件集合后端前端开发效率
+简介：golang 项目 makefile 脚本编写，编写 Makefile 脚本，封装编译、测试、构建命令，简化项目操作。
+ | 原文链接：m.mmd5ca.asia/Article/details/7483626.sHtML
+
+原标题：golang 系统设计依赖版本升级风险评估
+简介：golang ctx 关闭之后资源释放，context 取消后，监听 Done ()，释放 goroutine 网络 IO 资源。
+ | 原文链接：m.mmd5ca.asia/Article/details/3937353.sHtML
+
+原标题：开发复盘：实现定时任务调度服务支持动态任务
+简介：golang http cookie jar 会话处理，客户端 cookie jar 自动管理 cookie，处理登录态会话。
+ | 原文链接：m.mmd5ca.asia/Article/details/6483719.sHtML
+
+原标题：Issue：操作系统最大打开文件数限制导致报错
+简介：golang tcp_NODELAY 关闭延迟发送，设置 tcp_NODELAY，关闭 Nagle 算法，降低小包请求延迟。
+ | 原文链接：m.mmd5ca.asia/Article/details/9616849.sHtML
+
+原标题：golang 单元测试 table‑driven
+简介：golang rabbitmq go 客户端生产消费，streadway/amqp 实现 rabbitmq 生产者消费者，队列交换机绑定。
+ | 原文链接：m.mmd5ca.asia/Article/details/3749293.sHtML
+
+原标题：CI 流水线超时时间延长配置
+简介：react hooks 常见陷阱避坑指南，梳理 React Hooks 高频踩坑点，依赖数组、闭包陷阱，写出稳定组件。
+ | 原文链接：m.mmd5ca.asia/Article/details/5372402.sHtML
+
+原标题：golang 结构体深拷贝几种实现
+简介：golang sync.RWMutex 读写锁使用场景，读多写少场景读写锁，读共享写互斥，提升并发性能。
+ | 原文链接：m.mmd5ca.asia/Article/details/3049403.sHtML
+
+原标题：API 大版本不兼容平滑迁移
+简介：golang 分布式锁防死锁实现要点，锁超时、续期、锁持有者校验，避免锁死锁，保障分布式锁可靠性。
+ | 原文链接：m.mmd5ca.asia/Article/details/2916139.sHtML
+
+原标题：golang 系统设计日志与 traceId 关联打印实现
+简介：golang http body 必须关闭的重要性，无论成功失败必须关闭 request.Body，否则连接无法复用泄漏。
+ | 原文链接：m.mmd5ca.asia/Article/details/2827251.sHtML
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：极简 API 网关路由转发实现，开发极简网关服务，完成请求路由转发，理解网关基础实现原理。
+ | 原文链接：m.mmd5ca.asia/Article/details/3050503.sHtML
+
+原标题：golang docker 部署 es 本地开发
+简介：golang go 模板执行错误捕获，捕获模板执行错误，防止模板错误直接返回空白页面。
+ | 原文链接：m.mmd5ca.asia/Article/details/7181704.sHtML
+
+原标题：性能复盘：锁粒度太大，拆分细粒度锁优化
+简介：golang go sum 校验失败处理方案，go sum 校验不匹配，排查网络代理，清理缓存解决校验报错。
+ | 原文链接：m.mmd5ca.asia/Article/details/4140475.sHtML
+
+原标题：golang http grpc 全链路埋点示例
+简介：golang 配置热更新不重启服务，实现配置热加载，监听配置变更，更新内存配置，无需重启服务实例。
+ | 原文链接：m.mmd5ca.asia/Article/details/6384626.sHtML
+
+原标题：golang 系统设计 ci 流水线安全管控思路
+简介：golang go toml 配置注释保留，toml 解析保留注释，修改配置后写回保留原有注释。
+ | 原文链接：m.mmd5ca.asia/Article/details/0758350.sHtML
+
+原标题：空指针异常判空容错处理
+简介：golang 命令行彩色输出终端，终端彩色文字输出，进度条交互，优化命令行工具用户体验。
+ | 原文链接：m.mmd5ca.asia/Article/details/0415037.sHtML
+
+原标题：线上故障：消息队列重复消费业务处理异常
+简介：Nginx 丢失请求头配置修正，修复 Nginx 代理转发丢失请求头配置，保证上游服务拿到完整请求头信息。
+ | 原文链接：m.mmd5ca.asia/Article/details/8628061.sHtML
+
+原标题：golang 系统设计 vscode go 插件调试配置实操
+简介：golang 数据库慢查询监控实现，Go 封装 SQL 执行监控，记录慢 SQL，上报日志，发现数据库性能问题。
+ | 原文链接：m.mmd5ca.asia/Article/details/5273526.sHtML
+
+原标题：Shell 脚本自动化命令编写
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：m.mmd5ca.asia/Article/details/7485748.sHtML
+
+原标题：后端大文件分片上传接口开发
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：m.mmd5ca.asia/Article/details/7503911.sHtML
+
+原标题：golang kafka 死信队列业务落地
+简介：项目语义化版本号规范管理，遵循语义化版本规范管理项目版本，明确主次版本变更含义。
+ | 原文链接：m.mmd5ca.asia/Article/details/1825048.sHtML
+
+四、架构设计｜Architecture
+原标题：从零学习基础的接口请求与参数处理
+简介：golang redis bitmap 位图业务实战，bitmap 做签到统计、用户状态标记，节省大量内存空间。
+ | 原文链接：m.mmd5ca.asia/Article/details/3041282.sHtML
+
+原标题：HelloGitHubPages：部署你的第一个静态博客
+简介：golang 信号捕获程序退出处理，Go 捕获操作系统信号，做资源回收，控制程序退出流程。
+ | 原文链接：m.mmd5ca.asia/Article/details/8515060.sHtML
+
+原标题：HelloGitWorkflow：理解简单主干开发流程
+简介：百万数据 Excel 导出内存优化，优化大 Excel 导出逻辑，流式输出，避免一次性加载全部数据造成 OOM。
+ | 原文链接：m.mmd5ca.asia/Article/details/7484628.sHtML
+
+原标题：性能笔记：HTTP连接复用性能优化实践
+简介：golang 故障演练服务模拟超时报错，程序模拟接口超时、报错，做混沌测试验证熔断降级有效性。
+ | 原文链接：m.mmd5ca.asia/Article/details/1825033.sHtML
+
+原标题：golang gitlab ci 配置自动构建镜像
+简介：golang 定时任务 cron 使用指南，Go 使用 Cron 库实现定时任务，配置 corn 表达式调度业务任务。
+ | 原文链接：m.mmd5ca.asia/Article/details/2930282.sHtML
+
+原标题：Issue：浏览器缓存ServiceWorker导致旧页面常驻
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：m.mmd5ca.asia/Article/details/2608993.sHtML
+
+原标题：方案设计：统一错误处理架构全链路方案
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：m.mmd5ca.asia/Article/details/0456557.sHtML
+
+原标题：缓存过期策略优化防业务故障
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：m.mmd5ca.asia/Article/details/6024488.sHtML
+
+原标题：项目实践：数据库慢日志采集分析落地实践
+简介：golang 配置文件热加载监听变更，监听配置文件改动，自动重新加载配置，业务即时生效无需重启。
+ | 原文链接：m.mmd5ca.asia/Article/details/7008809.sHtML
+
+原标题：开发复盘：分布式会话共享多种方案实践
+简介：golang mock 单元测试编写技巧，单元测试 mock 外部依赖，隔离数据库网络，只测试业务逻辑本身。
+ | 原文链接：m.mmd5ca.asia/Article/details/0467890.sHtML
+
+原标题：golang es 更新文档注意版本冲突
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：m.mmd5ca.asia/Article/details/7681360.sHtML
+
+原标题：操作系统内核版本适配服务
+简介：浏览器本地存储安全使用技巧，讲解 localStorage、sessionStorage 使用边界，规避 XSS 泄露存储数据。
+ | 原文链接：m.mmd5ca.asia/Article/details/2933862.sHtML
+
+原标题：实战：数据库explain执行计划分析实操演练
+简介：golang bufio.Scanner 缓冲区调大，Scanner 默认缓冲区大小不够，读取超长行需要扩大缓冲区。
+ | 原文链接：m.mmd5ca.asia/Article/details/6374671.sHtML
+
+原标题：golang url 参数编码处理方案
+简介：golang go‑zero 监控指标埋点，go‑zero 内置 metrics 监控，上报业务指标对接监控平台。
+ | 原文链接：m.mmd5ca.asia/Article/details/6483515.sHtML
+
+原标题：实战项目：实现简单缓存服务缓存穿透击穿防护
+简介：golang time.After 内存泄漏场景，for 循环使用 time.After 会创建大量 timer，造成内存泄漏。
+ | 原文链接：m.mmd5ca.asia/Article/details/3048253.sHtML
+
+原标题：进程线程并发基础概念讲解
+简介：golang 服务注册 etcd 简单示例，etcd 实现服务注册发现，微服务实例注册元数据，客户端发现节点。
+ | 原文链接：m.mmd5ca.asia/Article/details/8592715.sHtML
+
+原标题：golang mongodb 分页性能优化技巧
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：m.mmd5ca.asia/Article/details/6362404.sHtML
+
+原标题：实战：接口压力测试实操，定位系统瓶颈
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：m.mmd5ca.asia/Article/details/6071692.sHtML
+
+?
