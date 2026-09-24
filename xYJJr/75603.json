@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang k8s 镜像拉取密钥配置
+简介：golang grafana 面板 go 业务指标可视化，prometheus 指标对接 grafana，配置监控面板可视化业务状态。
+ | 原文链接：m.sch56c.asia/Article/details/9646142.sHtML
+
+原标题：golang 文件上传下载接口开发
+简介：golang defer 执行顺序与坑点，defer 后进先出，循环内部 defer 陷阱，资源释放正确写法。
+ | 原文链接：m.sch56c.asia/Article/details/2040294.sHtML
+
+原标题：golang mongodb 文档结构设计原则
+简介：golang tar gz 压缩解压处理，tar.gz 归档压缩解压，服务端日志备份、文件打包场景使用。
+ | 原文链接：m.sch56c.asia/Article/details/1828371.sHtML
+
+原标题：golang 简单爬虫请求防封禁
+简介：golang http client 全局变量复用，http Client 不要每次请求新建，复用 Transport 提升性能。
+ | 原文链接：m.sch56c.asia/Article/details/9350229.sHtML
+
+原标题：golang 系统设计故障预案编写模板参考示例
+简介：golang http client Transport 参数调优，Transport 最大连接空闲连接，TLS 配置，http 客户端调优。
+ | 原文链接：m.sch56c.asia/Article/details/3798093.sHtML
+
+原标题：Hands‑on：简易验证码生成校验后端实践
+简介：golang redis geo 地理位置存储查询，Redis GEO 存储经纬度，查询附近点位，实现附近人业务功能。
+ | 原文链接：m.sch56c.asia/Article/details/6023589.sHtML
+
+原标题：golang 系统设计自动化测试 ci 流水线集成实操
+简介：golang 项目 go mod 依赖管理，Go Mod 管理项目依赖，下载、升级、清理依赖，解决依赖版本管理。
+ | 原文链接：m.sch56c.asia/Article/details/8234689.sHtML
+
+原标题：golang redis 五种数据结构实战
+简介：服务熔断防止故障级联传播，实现服务熔断逻辑，下游故障时快速失败，阻止故障向上游链式扩散。
+ | 原文链接：m.sch56c.asia/Article/details/7483627.sHtML
+
+原标题：OpenSource：开源项目贡献者协作流程规范
+简介：golang 空接口 interface {} 类型处理，interface {} 存储任意类型，类型转换，处理泛型之前通用数据。
+ | 原文链接：m.sch56c.asia/Article/details/3151737.sHtML
+
+原标题：golang k8s pod 优雅关闭流程讲解
+简介：react 状态管理方案选型对比，对比 Redux、Zustand 等 React 状态管理库，分析适用业务场景辅助选型。
+ | 原文链接：m.sch56c.asia/Article/details/9324048.sHtML
+
+原标题：数值类型溢出错乱问题修复
+简介：golang os 文件目录操作大全，文件创建删除重命名，目录遍历，文件信息读取，完成各类文件系统操作。
+ | 原文链接：m.sch56c.asia/Article/details/6372585.sHtML
+
+原标题：开发复盘：统一错误码体系设计落地实践
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：m.sch56c.asia/Article/details/0413037.sHtML
+
+原标题：Practice：从零实现轻量后端接口服务完整实践
+简介：golang httptest 模拟外部 http 服务，httptest.NewServer 模拟第三方 http 服务，单元测试 mock 外部接口。
+ | 原文链接：m.sch56c.asia/Article/details/2949184.sHtML
+
+原标题：记一次内存Swap被大量使用系统响应缓慢
+简介：golang gorm 预加载关联查询优化，GORM 预加载关联数据，避免 N+1 查询问题，提升数据库查询性能。
+ | 原文链接：m.sch56c.asia/Article/details/0938182.sHtML
+
+原标题：运维笔记：系统监控指标大盘搭建实操
+简介：容器软链接文件权限修复，修复容器内软链接文件权限，让程序能够正常读取软链接指向的文件。
+ | 原文链接：m.sch56c.asia/Article/details/5868471.sHtML
+
+原标题：效率笔记：批量处理文本命令行工具实战案例
+简介：日志驱动异常日志不输出修复，排查日志驱动配置，修复日志写入配置，恢复程序正常日志输出。
+ | 原文链接：m.sch56c.asia/Article/details/2930282.sHtML
+
+原标题：golang mysql 避免 select * 查询
+简介：golang loki 日志收集 go 服务集成，日志输出适配 loki，标签携带 traceId，日志集中检索排查问题。
+ | 原文链接：m.sch56c.asia/Article/details/4236838.sHtML
+
+原标题：golang jaeger 链路追踪 go 接入
+简介：布隆过滤器误判问题修正，调整布隆过滤器参数，降低误判概率，保证业务去重逻辑准确。
+ | 原文链接：m.sch56c.asia/Article/details/3254570.sHtML
+
+原标题：架构笔记：事件驱动架构适用场景与坑点
+简介：nodejs redis 缓存业务实战，Node 对接 Redis 实现业务缓存，缓存热点查询结果，减轻数据库压力。
+ | 原文链接：m.sch56c.asia/Article/details/1802483.sHtML
+
+原标题：实战：Redis过期回调实现业务事件通知实践
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：m.sch56c.asia/Article/details/3757361.sHtML
+
+原标题：CI/CD 流水线自动构建部署落地
+简介：golang sync.Pool 对象池复用对象，sync.Pool 复用临时对象，减少内存分配，降低 GC 频率提升性能。
+ | 原文链接：m.sch56c.asia/Article/details/6483626.sHtML
+
+原标题：系统时间同步定时任务偏移
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：m.sch56c.asia/Article/details/7190696.sHtML
+
+原标题：golang docker 部署 mongodb 开发环境
+简介：golang slice 切片底层原理与坑点，切片扩容、截取、底层数组共享，规避切片修改互相影响数据。
+ | 原文链接：m.sch56c.asia/Article/details/1838175.sHtML
+
+原标题：nodejs 定时任务生产环境避坑
+简介：golang go‑zero 配置中心热更新，go‑zero 对接 etcd 配置中心，配置热更新无需重启服务。
+ | 原文链接：m.sch56c.asia/Article/details/4153626.sHtML
+
+原标题：开发复盘：长轮询接口实现服务端消息推送
+简介：golang time duration 解析时间字符串，time.ParseDuration 解析 1h30m 时间间隔字符串。
+ | 原文链接：m.sch56c.asia/Article/details/7383627.sHtML
+
+原标题：Debug：请求头过大Nginx拒绝连接报错
+简介：golang 数据库慢查询监控实现，Go 封装 SQL 执行监控，记录慢 SQL，上报日志，发现数据库性能问题。
+ | 原文链接：m.sch56c.asia/Article/details/5262515.sHtML
+
+原标题：Debug：Websocket频繁断开重连根因分析
+简介：golang redis geo 地理位置存储查询，Redis GEO 存储经纬度，查询附近点位，实现附近人业务功能。
+ | 原文链接：m.sch56c.asia/Article/details/1828193.sHtML
+
+原标题：golang grafana 面板变量模板制作
+简介：ICMP 放通网络丢包问题修复，放开 ICMP 协议，解决 MTU 问题导致网络丢包，修复网络不稳定现象。
+ | 原文链接：m.sch56c.asia/Article/details/0716848.sHtML
+
+原标题：golang 系统设计分表字段选择路由规则设计
+简介：简易网关请求路由过滤模拟，模拟网关基础能力，实现请求路由转发、简单过滤，理解网关核心工作逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/5273715.sHtML
+
+原标题：golang 系统设计日志系统架构思路
+简介：golang 终端交互式输入选择，命令行交互式问答选择输入，实现交互式脚本工具。
+ | 原文链接：m.sch56c.asia/Article/details/9716149.sHtML
+
+原标题：文件分片上传断点续传功能
+简介：monorepo 项目多包管理最佳实践，monorepo 仓库管理多子包，统一版本管理，处理包之间互相依赖。
+ | 原文链接：m.sch56c.asia/Article/details/2945060.sHtML
+
+原标题：Practice：实现防爬虫简单拦截中间件实践
+简介：golang channel 关闭规则与坑点，关闭已经关闭 channel 会 panic，判断 channel 是否关闭正确写法。
+ | 原文链接：m.sch56c.asia/Article/details/7483636.sHtML
+
+原标题：性能笔记：磁盘IO过高业务优化手段
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：m.sch56c.asia/Article/details/7517915.sHtML
+
+原标题：线上故障：慢查询拖垮整个数据库服务
+简介：﻿从零搭建本地开发环境完整教程，手把手完成环境配置，梳理踩坑点，帮助开发者快速搭建可用的本地开发环境，降低上手成本。
+ | 原文链接：m.sch56c.asia/Article/details/5273514.sHtML
+
+原标题：数据库连接及时关闭连接泄漏
+简介：程序日志分级输出规范实践，区分日志等级，规范日志打印内容，合理输出日志，方便线上问题排查定位。
+ | 原文链接：m.sch56c.asia/Article/details/0414928.sHtML
+
+原标题：分布式 ID 生成器高并发实现
+简介：golang 接口限流中间件开发，Gin 开发限流中间件，接口层实现访问频率限制，防护接口流量。
+ | 原文链接：m.sch56c.asia/Article/details/5891596.sHtML
+
+原标题：golang mysql 读写分离简单实现
+简介：golang grpc 负载均衡客户端实现，grpc 客户端负载均衡，轮询随机权重，分发请求到多个服务实例。
+ | 原文链接：m.sch56c.asia/Article/details/6372404.sHtML
+
+原标题：golang 消息死信处理业务逻辑
+简介：多操作系统开发兼容处理，解决不同系统路径、换行符、权限差异，保证项目跨平台正常运行。
+ | 原文链接：m.sch56c.asia/Article/details/0424926.sHtML
+
+原标题：golang 系统设计分布式任务调度
+简介：golang redis pipeline 与 txpipeline 区别，区分普通管道与事务管道，根据业务场景选择合适批量执行方案。
+ | 原文链接：m.sch56c.asia/Article/details/0781780.sHtML
+
+原标题：golang 接口返回统一封装工具
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：m.sch56c.asia/Article/details/6347836.sHtML
+
+
+二、踩坑排错｜Troubleshooting
+原标题：golang es 分词器选型业务适配
+简介：golang prometheus 指标埋点开发，业务埋点计数器、仪表盘、直方图，对接 prometheus 采集监控指标。
+ | 原文链接：m.sch56c.asia/Article/details/6370694.sHtML
+
+原标题：golang 系统设计 changelog 变更日志维护
+简介：golang json 自定义 MarshalJSON UnmarshalJSON，自定义 json 序列化反序列化逻辑，处理特殊格式字段。
+ | 原文链接：m.sch56c.asia/Article/details/0725142.sHtML
+
+原标题：前端大文件分片上传完整方案
+简介：Cookie Session 会话状态管理，讲解 Cookie 与 Session 原理，理解登录状态保存，实现服务端会话管理逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/5969681.sHtML
+
+原标题：踩坑：大事务引发数据库连接池耗尽
+简介：golang go 容器 heap 堆实现优先队列，实现 heap 接口，构建优先队列，任务优先级调度。
+ | 原文链接：m.sch56c.asia/Article/details/5263515.sHtML
+
+原标题：布隆过滤器误判问题修正
+简介：多线程线程安全脏数据规避，梳理多线程共享变量，做好同步控制，避免并发修改产生脏数据。
+ | 原文链接：m.sch56c.asia/Article/details/2949475.sHtML
+
+原标题：K8s 镜像拉取网络故障修复
+简介：pnpm 包管理工具实战避坑指南，使用 pnpm 管理项目依赖，梳理常见坑点，充分利用 pnpm 优势。
+ | 原文链接：m.sch56c.asia/Article/details/0618060.sHtML
+
+原标题：golang 系统设计数据库版本迁移回滚方案
+简介：项目脚手架模板生成工具，搭建项目模板脚手架，一键生成标准化项目骨架，减少重复初始化工作。
+ | 原文链接：m.sch56c.asia/Article/details/3062405.sHtML
+
+原标题：开发记录：短信发送服务封装，失败重试策略
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：m.sch56c.asia/Article/details/1829469.sHtML
+
+原标题：依赖版本冲突兼容修复方案
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：m.sch56c.asia/Article/details/1040281.sHtML
+
+原标题：golang 系统设计 traceId 全链路透传完整方案
+简介：golang go 排序 sort 包自定义排序，sort 包实现自定义排序逻辑，对切片按业务规则排序。
+ | 原文链接：m.sch56c.asia/Article/details/0716850.sHtML
+
+原标题：设计思考：消息顺序性架构保证与业务妥协
+简介：Nginx 反向代理路由配置实战，配置 Nginx 反向代理，实现请求转发、路由分发，掌握 Nginx 基础配置能力。
+ | 原文链接：m.sch56c.asia/Article/details/5868575.sHtML
+
+原标题：安全实践：API密钥管理轮换最佳实践
+简介：golang 高并发下锁优化减少竞争，减小锁粒度，读写锁替换互斥锁，无锁编程降低锁竞争开销。
+ | 原文链接：m.sch56c.asia/Article/details/1827838.sHtML
+
+原标题：缓存穿透击穿雪崩全套防护
+简介：golang 容器时区设置镜像构建处理，镜像内部设置正确时区，解决容器时间与宿主机不一致。
+ | 原文链接：m.sch56c.asia/Article/details/0646131.sHtML
+
+原标题：前端图片懒加载性能优化
+简介：静态博客部署 GitHub Pages 教程，将静态博客项目部署至 GitHub Pages，完成线上访问，快速搭建个人技术博客站点。
+ | 原文链接：m.sch56c.asia/Article/details/3049092.sHtML
+
+原标题：坑点：环境配置被打包进镜像引发安全泄露
+简介：golang url 解析路径参数提取，url.Parse 解析 url，获取协议主机路径查询参数。
+ | 原文链接：m.sch56c.asia/Article/details/2837250.sHtML
+
+原标题：坑点：gitrebase操作失误，代码提交丢失
+简介：golang 错误处理最佳实践汇总，Go 错误处理规范，包装错误，堆栈携带，拒绝简单忽略错误。
+ | 原文链接：m.sch56c.asia/Article/details/6302718.sHtML
+
+原标题：golang 系统设计内部 rpc 接口设计原则梳理
+简介：golang go 爬虫 html 解析 goquery，goquery 解析 html 文档，css 选择器提取网页内容，实现网页数据抓取。
+ | 原文链接：m.sch56c.asia/Article/details/4169475.sHtML
+
+原标题：代理 HTTPS 证书访问异常处理
+简介：golang go 线上故障排查完整流程，CPU 高、内存上涨、接口超时、goroutine 泄露一套排查处理流程。
+ | 原文链接：m.sch56c.asia/Article/details/9628061.sHtML
+
+原标题：设计思考：防雪崩，系统过载保护架构设计
+简介：golang base64 编码解码实操，Go Base64 编码解码示例，处理业务场景 Base64 格式数据转换。
+ | 原文链接：m.sch56c.asia/Article/details/1847251.sHtML
+
+原标题：踩坑：环境变量未生效导致线上配置错乱
+简介：golang 错误栈捕获打印方案，捕获错误完整调用堆栈，线上日志输出堆栈，快速定位错误发生代码位置。
+ | 原文链接：m.sch56c.asia/Article/details/0481241.sHtML
+
+原标题：Hands‑on：编写GitLabCI配置自动测试部署
+简介：golang atomic 原子操作整数，atomic 加减比较交换，无锁更新整型变量，简单计数器场景。
+ | 原文链接：m.sch56c.asia/Article/details/8299367.sHtML
+
+原标题：架构复盘：慢查询治理架构层面优化手段
+简介：消息队列生产消费模型入门，讲解消息队列生产、存储、消费流程，理解异步解耦、削峰，掌握消息队列基础概念。
+ | 原文链接：m.sch56c.asia/Article/details/5379475.sHtML
+
+原标题：golang 系统设计配置回滚版本历史记录实现
+简介：简易网关请求路由过滤模拟，模拟网关基础能力，实现请求路由转发、简单过滤，理解网关核心工作逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/3757482.sHtML
+
+原标题：安全笔记：HTTPSTLS配置安全加固实践
+简介：golang pdf 生成 go 服务端生成 pdf，服务端动态生成 pdf 报表文件，直接输出下载给到前端。
+ | 原文链接：m.sch56c.asia/Article/details/6380686.sHtML
+
+原标题：记一次分库分表路由计算错误数据写入错误分片
+简介：golang yaml 解析配置加载实操，Go 解析 YAML 配置文件，读取配置参数，驱动业务运行。
+ | 原文链接：m.sch56c.asia/Article/details/9618060.sHtML
+
+原标题：golang 系统设计分布式锁红锁优缺点梳理
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：m.sch56c.asia/Article/details/2062405.sHtML
+
+原标题：HelloGitHubPages：部署你的第一个静态博客
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：m.sch56c.asia/Article/details/6389697.sHtML
+
+原标题：AI‑Dev：利用AI快速阅读陌生开源项目源码
+简介：Git LFS 大文件推送失败解决，配置 Git LFS，处理仓库大文件，解决大文件推送报错推送失败。
+ | 原文链接：m.sch56c.asia/Article/details/9606848.sHtML
+
+原标题：CI 流水线构建失败日志排查
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：m.sch56c.asia/Article/details/6492704.sHtML
+
+原标题：Practice：实现接口防重提交组件实践
+简介：golang 参数校验业务接口处理，Go 接口入参参数校验，拦截非法入参，减少业务层参数判断代码。
+ | 原文链接：m.sch56c.asia/Article/details/4162392.sHtML
+
+原标题：Troubleshoot：MySQL字符集utf8非utf8mb4emoji报错
+简介：golang gorm 子查询嵌套查询写法，Gorm 实现子查询、嵌套查询，复杂条件查询简化代码编写。
+ | 原文链接：m.sch56c.asia/Article/details/7595707.sHtML
+
+原标题：调优方案：MySQL缓冲池参数性能调优实践
+简介：golang cgo 调用 C 语言代码示例，cgo 调用 C 函数，go 与 C 互相调用，对接 C 语言库能力。
+ | 原文链接：m.sch56c.asia/Article/details/0647251.sHtML
+
+原标题：坑点：gitcherry‑pick引入不兼容代码
+简介：golang 僵尸进程处理 go 程序，正确等待子进程退出，避免产生僵尸进程，占用系统进程表。
+ | 原文链接：m.sch56c.asia/Article/details/9424938.sHtML
+
+原标题：架构复盘：消息队列在业务系统中边界与最佳实践
+简介：golang go 项目工程目录布局标准，不同规模 go 项目目录结构，小型项目中型项目大型微服务项目布局。
+ | 原文链接：m.sch56c.asia/Article/details/7281516.sHtML
+
+原标题：开发记录：网关实现接口鉴权、限流、日志打印
+简介：API 接口调试与异常处理实战，覆盖接口请求、参数组装、错误捕获，提供调试思路，高效定位接口返回异常问题。
+ | 原文链接：m.sch56c.asia/Article/details/1693836.sHtML
+
+原标题：Issue复现：内存泄漏定位完整复盘记录
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：m.sch56c.asia/Article/details/6139393.sHtML
+
+原标题：性能笔记：TCP参数内核调优服务高并发场景
+简介：golang 重试退避机制代码实现，Go 实现请求重试与指数退避，处理临时故障，提升调用稳定性。
+ | 原文链接：m.sch56c.asia/Article/details/3848240.sHtML
+
+原标题：Hands‑on：编写shell健康检查自动重启脚本
+简介：golang redis hyperloglog 基数统计，hyperloglog 统计 UV 基数，海量数据去重统计，极低内存开销。
+ | 原文链接：m.sch56c.asia/Article/details/4847272.sHtML
+
+原标题：数据库事务 ACID 原理讲解
+简介：golang html 模板渲染简单示例，Go HTML 模板渲染，服务端渲染页面，填充数据输出 HTML 页面。
+ | 原文链接：m.sch56c.asia/Article/details/1618241.sHtML
+
+原标题：入门实践：使用Git完成第一次代码提交与推送
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：m.sch56c.asia/Article/details/8381795.sHtML
+
+三、实战开发｜Practice
+原标题：CORS 跨域问题多种解决方案
+简介：Nginx 请求头大小上限调整，修改 Nginx 配置，调大请求头允许最大大小，避免大 Header 请求被拒绝。
+ | 原文链接：m.sch56c.asia/Article/details/5261705.sHtML
+
+原标题：golang 系统设计 mq 消息积压解决方案
+简介：golang redis stream 消息队列实战，redis stream 实现可靠消息队列，消费组、ack 确认，消息不丢失。
+ | 原文链接：m.sch56c.asia/Article/details/8391916.sHtML
+
+原标题：golang 系统设计多级缓存架构落地
+简介：golang go‑zero 中间件鉴权限流，go‑zero 自定义中间件，实现鉴权、限流、日志打印通用能力。
+ | 原文链接：m.sch56c.asia/Article/details/2837169.sHtML
+
+原标题：实战：GraphQL服务搭建与CRUD实操
+简介：golang GC 调优 GOGC 参数调整，调整 GOGC 阈值，控制 GC 触发时机，权衡内存占用与 CPU 开销。
+ | 原文链接：m.sch56c.asia/Article/details/6251572.sHtML
+
+原标题：golang minio 分片上传断点续传
+简介：golang ip 限流黑名单实现方案，基于 IP 做限流与黑名单，拦截恶意 IP 访问，保护接口服务。
+ | 原文链接：m.sch56c.asia/Article/details/3837170.sHtML
+
+原标题：GC 垃圾回收优化降低 CPU 占用
+简介：service‑worker 离线缓存实践，使用 ServiceWorker 实现静态资源离线缓存，弱网环境页面依然可访问。
+ | 原文链接：m.sch56c.asia/Article/details/5970595.sHtML
+
+原标题：golang prometheus 告警规则编写
+简介：golang 协程数量监控统计方案，统计运行中 goroutine 数量，监控协程泄露，协程数量异常及时告警。
+ | 原文链接：m.sch56c.asia/Article/details/8251682.sHtML
+
+原标题：Security：反序列化漏洞风险识别与规避
+简介：express 中间件开发业务实践，开发 Express 自定义中间件，拦截请求，实现鉴权、日志记录等通用逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/5341513.sHtML
+
+原标题：golang 系统设计链路数据存储选型对比讲解
+简介：golang grpc keepalive 保活配置，grpc keepalive 参数调优，检测断开僵死连接，释放无效连接资源。
+ | 原文链接：m.sch56c.asia/Article/details/6069782.sHtML
+
+原标题：MySQL 慢查询索引优化实战
+简介：服务健康检查告警监控体系，搭建健康检查加告警体系，服务异常及时推送告警通知运维人员。
+ | 原文链接：m.sch56c.asia/Article/details/4158607.sHtML
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：前端静态缓存更新生效处理，修改静态资源版本标识，处理浏览器强缓存，让更新资源生效。
+ | 原文链接：m.sch56c.asia/Article/details/0736058.sHtML
+
+原标题：实战项目：GitHubAction自动测试构建实践
+简介：golang gzip 压缩 http 响应，服务端开启 gzip 压缩，减小接口响应体积，降低网络传输耗时。
+ | 原文链接：m.sch56c.asia/Article/details/3707949.sHtML
+
+原标题：开发复盘：大列表内存分批读取避免OOM实践
+简介：定时任务周期调度 demo 开发，实现简单定时调度程序，按时间周期执行业务逻辑，理解定时任务运行机制。
+ | 原文链接：m.sch56c.asia/Article/details/1020271.sHtML
+
+原标题：Practice：实现接口防重提交组件实践
+简介：前端国际化多语言方案落地，搭建前端多语言国际化方案，切换语言，页面文本自动切换对应语种。
+ | 原文链接：m.sch56c.asia/Article/details/4959049.sHtML
+
+原标题：AI‑Dev：AI辅助编码高效使用提示词技巧
+简介：golang 时间戳秒毫秒纳秒转换，Unix UnixMilli UnixNano 互相转换，区分单位避免时间逻辑 bug。
+ | 原文链接：m.sch56c.asia/Article/details/0692835.sHtML
+
+原标题：Docker 多阶段构建镜像瘦身
+简介：golang feishu 飞书机器人消息发送，调用飞书 webhook 机器人，发送文本卡片消息，实现业务告警通知。
+ | 原文链接：m.sch56c.asia/Article/details/6057179.sHtML
+
+原标题：golang 系统设计锁优化减少竞争提升吞吐
+简介：golang toml 配置文件解析教程，Go 解析 Toml 格式配置，适用于项目配置管理场景。
+ | 原文链接：m.sch56c.asia/Article/details/3817240.sHtML
+
+原标题：golang 系统设计短信发送限流降级
+简介：golang 文件上传下载接口开发，Go 开发文件上传下载接口，校验文件，处理文件读写存储逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/6061917.sHtML
+
+原标题：golang rate‑limiter 限流组件
+简介：Shell 运维脚本服务器效率提升，编写常用运维 Shell 脚本，自动化服务器运维操作，减少手工重复工作。
+ | 原文链接：m.sch56c.asia/Article/details/9694837.sHtML
+
+原标题：golang 系统设计第三方接口调用封装思路
+简介：golang kafka 消费者位移管理，理解 kafka offset，手动提交位移，保证消息消费至少一次语义。
+ | 原文链接：m.sch56c.asia/Article/details/0736480.sHtML
+
+原标题：部署复盘：金丝雀发布流量切分实操方案
+简介：golang 进程信号捕获 SIGUSR 自定义信号，捕获用户自定义信号，实现线上不重启触发调试、日志切换。
+ | 原文链接：m.sch56c.asia/Article/details/5921215.sHtML
+
+原标题：golang minio 存储桶权限管控配置
+简介：golang go 逃逸分析实操查看，go build‑gcflags=-m 查看逃逸分析，减少堆分配优化程序性能。
+ | 原文链接：m.sch56c.asia/Article/details/1568790.sHtML
+
+原标题：新手指南：读懂项目构建脚本作用
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：m.sch56c.asia/Article/details/6158257.sHtML
+
+原标题：新手教程：本地项目初始化gitignore配置
+简介：golang go‑zero 监控指标埋点，go‑zero 内置 metrics 监控，上报业务指标对接监控平台。
+ | 原文链接：m.sch56c.asia/Article/details/7358059.sHtML
+
+原标题：golang 系统设计配置热更新不重启服务实现
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：m.sch56c.asia/Article/details/4136703.sHtML
+
+原标题：Practice：批量异步任务处理系统设计实现
+简介：golang goroutine 泄露检测告警实现，监控 goroutine 数量，突增触发告警，提早发现协程泄露。
+ | 原文链接：m.sch56c.asia/Article/details/0829179.sHtML
+
+原标题：nodejs jwt 登录鉴权完整示例
+简介：nodejs 中间件模式原理剖析，拆解 Node 中间件设计模式，理解请求逐层处理流转的底层原理。
+ | 原文链接：m.sch56c.asia/Article/details/0717060.sHtML
+
+原标题：golang 系统设计日志架构采集存储检索完整链路
+简介：限流组件计数器令牌桶模式实现，实现计数器、令牌桶两种限流算法，封装可复用限流组件。
+ | 原文链接：m.sch56c.asia/Article/details/5382515.sHtML
+
+原标题：代码模块化组件化拆分思路
+简介：golang aes 对称加密解密示例，AES 对称加密解密实现，业务敏感数据加密存储传输。
+ | 原文链接：m.sch56c.asia/Article/details/2937361.sHtML
+
+原标题：golang mysql 事务回滚异常处理
+简介：golang os 环境变量读取设置，os.Getenv os.Setenv os.Unsetenv 读写环境变量，环境变量多值处理。
+ | 原文链接：m.sch56c.asia/Article/details/9614846.sHtML
+
+原标题：golang mysql 批量导入数据实操
+简介：前后端会话登录状态持久化，实现登录状态持久存储，重启服务登录状态不丢失，保障会话稳定性。
+ | 原文链接：m.sch56c.asia/Article/details/6080695.sHtML
+
+原标题：Git 误删提交代码恢复找回
+简介：时间同步修复令牌提前过期，服务器时间不同步导致 JWT 令牌提前过期，同步系统时间解决异常。
+ | 原文链接：m.sch56c.asia/Article/details/1538372.sHtML
+
+原标题：golang rate‑limiter 限流组件
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：m.sch56c.asia/Article/details/9636258.sHtML
+
+原标题：接口签名校验防篡改实现
+简介：golang validator 自定义校验规则，Gin Validator 自定义校验器，实现业务特殊参数校验逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/6376847.sHtML
+
+原标题：golang 系统设计参数校验统一处理方案
+简介：golang sync.Map 适用场景与性能对比，读多写少，离散 key，对比普通 map 加锁性能差异。
+ | 原文链接：m.sch56c.asia/Article/details/6381695.sHtML
+
+原标题：业务接口幂等完整落地案例
+简介：golang sync.Cond 条件变量使用，Cond 条件变量协程等待唤醒，复杂并发同步场景。
+ | 原文链接：m.sch56c.asia/Article/details/1839140.sHtML
+
+原标题：慢查询分析索引调优数据库实战
+简介：golang 容器内读取 k8s 配置 configmap，程序读取 k8s configmap 配置，配置与镜像分离便于运维。
+ | 原文链接：m.sch56c.asia/Article/details/9717069.sHtML
+
+原标题：开源实践：开源项目本地调试构建排坑经验
+简介：golang grpc 错误状态码标准化，grpc 标准化错误返回，定义业务错误码，客户端解析处理业务异常。
+ | 原文链接：m.sch56c.asia/Article/details/6381696.sHtML
+
+原标题：容器资源限制防止宿主机过载
+简介：golang 内存 dump 线上堆快照采集，线上生成内存 dump 文件，线下分析，定位内存泄漏问题。
+ | 原文链接：m.sch56c.asia/Article/details/1828060.sHtML
+
+原标题：golang redis 锁超时业务处理
+简介：线上接口超时故障排查思路，从网络、数据库、代码逻辑逐层排查接口超时，定位慢请求根因。
+ | 原文链接：m.sch56c.asia/Article/details/8193037.sHtML
+
+四、架构设计｜Architecture
+原标题：golang 系统设计数据库表设计通用规范模板
+简介：golang sort 搜索查找切片元素，sort.Search 二分查找有序切片，快速定位元素索引位置。
+ | 原文链接：m.sch56c.asia/Article/details/9609171.sHtML
+
+原标题：golang 系统设计架构图绘图工具选型对比
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：m.sch56c.asia/Article/details/1936142.sHtML
+
+原标题：golang redis set 集合去重业务
+简介：Git LFS 大文件推送失败解决，配置 Git LFS，处理仓库大文件，解决大文件推送报错推送失败。
+ | 原文链接：m.sch56c.asia/Article/details/8503848.sHtML
+
+原标题：golang 系统设计熔断降级架构讲解
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：m.sch56c.asia/Article/details/2930285.sHtML
+
+原标题：ORM 隐式慢查询问题规避
+简介：环境变量不生效问题修复，排查环境变量加载顺序、作用域问题，修复环境变量读取不到的异常。
+ | 原文链接：m.sch56c.asia/Article/details/3048252.sHtML
+
+原标题：golang docker 部署 mongodb 开发环境
+简介：JSON XML 数据解析处理示例，演示两种格式数据解析与序列化，增加异常捕获，处理格式错乱导致解析失败。
+ | 原文链接：m.sch56c.asia/Article/details/6373515.sHtML
+
+原标题：快速上手简单信号处理脚本编写
+简介：golang net/url 路径拼接处理，url.ParseRequestURI 处理请求 url，正确拼接 url 路径避免拼接错误。
+ | 原文链接：m.sch56c.asia/Article/details/0940172.sHtML
+
+原标题：项目实践：分布式会话Redis存储落地实践
+简介：消息队列重复消费业务处理，实现消息消费幂等，处理重复投递消息，保证多次消费业务结果一致。
+ | 原文链接：m.sch56c.asia/Article/details/7481919.sHtML
+
+原标题：部署复盘：GitHubActions完整自动化配置
+简介：ORM 隐式慢查询问题规避，识别 ORM 框架隐式查询，避免循环查询数据库，减少不必要慢 SQL 产生。
+ | 原文链接：m.sch56c.asia/Article/details/5270574.sHtML
+
+原标题：golang 系统设计创建更新时间自动维护方案
+简介：golang 大文件读取内存优化，Go 流式读取大文件，分块处理，避免大文件一次性加载全部到内存。
+ | 原文链接：m.sch56c.asia/Article/details/7186847.sHtML
+
+原标题：项目实践：MySQL读写分离本地模拟实践
+简介：前后端会话登录状态持久化，实现登录状态持久存储，重启服务登录状态不丢失，保障会话稳定性。
+ | 原文链接：m.sch56c.asia/Article/details/0827969.sHtML
+
+原标题：前端 pdf 预览渲染方案对比
+简介：golang mime 类型检测文件，mime 识别文件 mime 类型，设置 http 响应 Content‑Type。
+ | 原文链接：m.sch56c.asia/Article/details/8639170.sHtML
+
+原标题：架构复盘：限流系统架构防止恶意流量冲击
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：m.sch56c.asia/Article/details/6381697.sHtML
+
+原标题：golang redis 锁超时业务处理
+简介：golang 静态文件服务搭建教程，Go 搭建静态文件服务，托管静态资源，实现文件直接对外访问。
+ | 原文链接：m.sch56c.asia/Article/details/7192715.sHtML
+
+原标题：react hooks 常见陷阱避坑指南
+简介：golang go 项目安全检查漏洞扫描，扫描 go 项目依赖漏洞，代码安全审计，规避安全风险。
+ | 原文链接：m.sch56c.asia/Article/details/8506838.sHtML
+
+原标题：Architecture：API设计RESTful最佳实践与反模式
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：m.sch56c.asia/Article/details/8594929.sHtML
+
+原标题：前端打包分包加载提速方案
+简介：golang redis 过期时间处理技巧，设置 key 过期，监控过期事件，基于过期特性实现业务缓存逻辑。
+ | 原文链接：m.sch56c.asia/Article/details/5081593.sHtML
+
+原标题：调优方案：前端静态资源打包性能体积优化
+简介：golang go mod exclude 排除依赖版本，exclude 排除有问题依赖版本，规避有 bug 的第三方包。
+ | 原文链接：m.sch56c.asia/Article/details/8192704.sHtML
+
+?
